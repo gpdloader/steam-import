@@ -1,0 +1,475 @@
+36519;007 - The World Is Not Enough (USA, Europe).gbc
+36909;10-Pin Bowling (USA).gbc
+37339;102 Dalmatians - Puppies to the Rescue (USA, Europe).gbc
+36783;1942 (USA, Europe).gbc
+37608;3-D Ultra Pinball - Thrillride (USA).gbc
+37417;720 Degrees (USA, Europe).gbc
+37467;Action Man - Search for Base X (USA, Europe).gbc
+37764;Adventures of Elmo in Grouchland, The (USA).gbc
+37504;AirForce Delta (USA).gbc
+36580;Aladdin (USA).gbc
+36928;Alice in Wonderland (USA).gbc
+37334;Aliens - Thanatos Encounter (USA, Europe).gbc
+37809;All-Star Baseball 2000 (USA, Europe).gbc
+36982;All-Star Baseball 2001 (USA).gbc
+37804;Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).gbc
+36779;Animorphs (USA).gbc
+36895;Antz (USA) (En,Fr,Es).gbc
+37623;Antz Racing (USA) (En,Fr,De,Es,It,Nl).gbc
+37569;Arcade Hits - Joust & Defender (USA, Europe).gbc
+36742;Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe).gbc
+37830;Armada - FX Racers (USA).gbc
+37689;Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).gbc
+37670;Army Men - Air Combat (USA, Europe) (En,Fr,De).gbc
+37343;Army Men - Sarge's Heroes 2 (USA, Europe) (En,Fr,De).gbc
+37758;Army Men (USA, Europe) (En,Fr,De).gbc
+36538;Army Men 2 (USA, Europe) (En,Fr,De).gbc
+37684;Arthur's Absolutely Fun Day! (USA).gbc
+37810;Asteroids (USA, Europe).gbc
+36807;Atlantis - The Lost Empire (USA, Europe).gbc
+37813;Austin Powers - Oh, Behave! (USA).gbc
+37817;Austin Powers - Welcome to my Underground Lair! (USA).gbc
+37345;Azure Dreams (USA) (SGB Enhanced).gbc
+36863;Babe and Friends (USA).gbc
+36848;Ballistic (USA).gbc
+36926;Barbie - Fashion Pack Games (USA, Europe).gbc
+37286;Barbie - Magic Genie Adventure (USA).gbc
+37846;Barbie - Ocean Discovery (USA).gbc
+37555;Barbie - Pet Rescue (USA).gbc
+36801;Bass Masters Classic (USA, Europe).gbc
+37004;Batman Beyond - Return of the Joker (USA).gbc
+36983;Battleship (USA, Europe).gbc
+36822;BattleTanx (USA).gbc
+36677;Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl).gbc
+36767;Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced).gbc
+37109;Billy Bob's Huntin' 'n' Fishin' (USA, Europe).gbc
+36649;Bionic Commando - Elite Forces (USA, Australia).gbc
+37565;Black Bass - Lure Fishing (USA, Europe).gbc
+37401;Blade (USA, Europe).gbc
+36842;Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced).gbc
+36738;Blue's Clues - Blue's Alphabet Book (USA).gbc
+36906;Boarder Zone (USA).gbc
+37829;Bob the Builder - Fix it Fun! (USA).gbc
+37508;Bomberman Max - Blue Champion (USA).gbc
+37162;Bomberman Max - Red Challenger (USA).gbc
+37306;Bomberman Quest (USA) (SGB Enhanced).gbc
+36922;Buffy the Vampire Slayer (USA, Europe).gbc
+37202;Bug's Life, A (USA) (SGB Enhanced).gbc
+37263;Bugs Bunny - Crazy Castle 3 (USA, Europe).gbc
+36641;Bugs Bunny in Crazy Castle 4 (USA).gbc
+37176;Bust-A-Move 4 (USA, Europe).gbc
+37399;Bust-A-Move Millennium (USA, Europe).gbc
+36505;Buzz Lightyear of Star Command (USA, Europe).gbc
+37368;Caesars Palace II (USA, Europe).gbc
+37278;Cannon Fodder (USA) (En,Fr,De,Es,It).gbc
+37616;Card Sharks (USA) (Proto).gbc
+36792;Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It).gbc
+36972;Casper (USA).gbc
+37172;Caterpillar Construction Zone (USA, Europe).gbc
+37599;Catwoman (USA).gbc
+37354;Catz - Your Virtual Petz Palz (USA).gbc
+37090;Centipede (USA).gbc
+37583;Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe).gbc
+37108;Chase H.Q. - Secret Police (USA) (SGB Enhanced).gbc
+37860;Chessmaster (USA, Europe).gbc
+37402;Chicken Run (USA, Europe) (En,Fr,De,Es,It).gbc
+37069;Classic Bubble Bobble (USA) (SGB Enhanced).gbc
+37798;Commander Keen (USA, Europe).gbc
+37165;Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced).gbc
+37136;Croc (USA, Europe).gbc
+37365;Croc 2 (USA, Europe).gbc
+37265;Cruis'n Exotica (USA).gbc
+37420;Crystalis (USA).gbc
+37593;Cubix - Robots for Everyone - Race 'n Robots (USA) (En,Fr,De,Es,It).gbc
+37163;CyberTiger (USA, Europe).gbc
+36737;Daffy Duck - Fowl Play (USA, Europe).gbc
+36988;Dave Mirra Freestyle BMX (USA, Europe).gbc
+37468;Deer Hunter (USA).gbc
+37270;Deja Vu I & II - The Casebooks of Ace Harding (USA).gbc
+37759;Dexter's Laboratory - Robot Rampage (USA, Europe).gbc
+37018;Dinosaur (USA).gbc
+37249;Dinosaur (USA) (Beta).gbc
+37539;Diva Starz - Mall Mania (USA).gbc
+37617;Dogz - Your Virtual Petz Palz (USA).gbc
+37124;Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).gbc
+37726;Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).gbc
+37556;Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It) (Sample).gbc
+37451;Doug's Big Game (USA).gbc
+36764;Dracula - Crazy Vampire (USA).gbc
+37474;Dragon Ball Z - Legendary Super Warriors (USA).gbc
+36835;Dragon Dance (USA) (SGB Enhanced).gbc
+37366;Dragon Tales - Dragon Adventures (USA).gbc
+36882;Dragon Tales - Dragon Wings (USA).gbc
+37517;Dragon Warrior I & II (USA) (SGB Enhanced).gbc
+37403;Dragon Warrior III (USA).gbc
+37741;Dragon Warrior Monsters (USA, Europe) (SGB Enhanced).gbc
+37063;Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced).gbc
+37198;Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced).gbc
+37431;Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh).gbc
+37166;Driver - You are the Wheelman (USA) (En,Fr,De,Es,It).gbc
+37634;Duke Nukem (USA) (En,Fr,De,Es,It).gbc
+37765;Dukes of Hazzard, The - Racing for Home (USA).gbc
+36468;E.T. - The Extra-Terrestrial - Digital Companion (USA).gbc
+37766;E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA).gbc
+36527;E.T. - The Extra-Terrestrial and the Cosmic Garden (USA).gbc
+36796;Earthworm Jim - Menace 2 the Galaxy (USA, Europe).gbc
+37641;ECW Hardcore Revolution (USA, Europe).gbc
+36699;Elmo's 123s (USA).gbc
+37396;Elmo's ABCs (USA).gbc
+37806;Emperor's New Groove, The (USA).gbc
+37285;ESPN International Track & Field (USA).gbc
+36970;ESPN National Hockey Night (USA).gbc
+37780;Evel Knievel (USA).gbc
+37050;Extreme Sports with the Berenstain Bears (USA, Europe) (En,Fr,De,Es,It).gbc
+37433;F-18 Thunder Strike (USA, Europe).gbc
+37035;F1 World Grand Prix II for Game Boy Color (USA) (En,Fr,De,Es).gbc
+36600;FIFA 2000 (USA, Europe) (SGB Enhanced).gbc
+37359;Flintstones, The - Burgertime in Bedrock (USA).gbc
+37301;Force 21 (USA) (En,Fr,De).gbc
+37344;Formula One 2000 (USA).gbc
+36805;Frogger (USA).gbc
+37227;Frogger (USA) (Rev A).gbc
+36470;Frogger (USA) (Rev B).gbc
+37545;Frogger 2 (USA).gbc
+37104;Galaga - Destination Earth (USA).gbc
+37333;Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced).gbc
+36872;Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced).gbc
+37823;Game Boy Color (USA) (Promo).gbc
+36747;GameShark Online (USA) (Unl).gbc
+37466;Gex - Enter the Gecko (USA, Europe).gbc
+36491;Gex 3 - Deep Pocket Gecko (USA).gbc
+37836;Ghosts'n Goblins (USA, Europe).gbc
+36960;Gobs of Games (USA) (En,Fr,De).gbc
+36808;Godzilla - The Series - Monster Wars (USA) (En,Fr,De).gbc
+37161;Godzilla - The Series (USA) (En,Fr,De).gbc
+36787;Gold and Glory - The Road to El Dorado (USA).gbc
+36734;Grand Theft Auto (USA).gbc
+36484;Grand Theft Auto 2 (USA).gbc
+37495;Grinch, The (USA).gbc
+36566;Hamtaro - Ham-Hams Unite! (USA).gbc
+36853;Hands of Time (USA, Europe) (En,Fr,De,Es,It,Nl).gbc
+37394;Harley-Davidson Motor Cycles - Race Across America (USA).gbc
+36916;Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).gbc
+36711;Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).gbc
+37852;Harvest Moon 2 GBC (USA) (SGB Enhanced).gbc
+37316;Harvest Moon 3 GBC (USA).gbc
+37597;Harvest Moon GB (USA) (SGB Enhanced).gbc
+36735;Hello Kitty's Cube Frenzy (USA).gbc
+37360;Heroes of Might and Magic (USA) (En,Fr,De).gbc
+37315;Heroes of Might and Magic II (USA) (En,Fr,De).gbc
+37208;Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced).gbc
+37682;Hole In One Golf (USA) (SGB Enhanced).gbc
+36462;Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced).gbc
+37135;Hoyle Card Games (USA).gbc
+36633;Hoyle Casino (USA).gbc
+37774;Indiana Jones and the Infernal Machine (USA, Europe) (En,Fr,De).gbc
+37170;Inspector Gadget - Operation Madkactus (USA).gbc
+37562;International Rally (USA) (SGB Enhanced).gbc
+37507;International Superstar Soccer 2000 (USA).gbc
+37194;International Superstar Soccer 99 (USA) (SGB Enhanced).gbc
+37256;International Track & Field (USA) (SGB Enhanced).gbc
+36507;Jeff Gordon XS Racing (USA).gbc
+37023;Jeremy McGrath Supercross 2000 (USA, Europe).gbc
+37706;Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced).gbc
+37280;JumpStart Dino Adventure - Field Trip (USA).gbc
+37573;Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It).gbc
+36927;Kelly Club - Clubhouse Fun (USA).gbc
+36537;Ken Griffey Jr.'s Slugfest (USA).gbc
+36777;Kirby - Tilt 'n' Tumble (USA).gbc
+37463;Klax (USA, Europe).gbc
+36631;Klustar (USA).gbc
+37171;Knockout Kings (USA, Europe).gbc
+36635;Land Before Time, The (USA).gbc
+37189;Las Vegas Cool Hand (USA).gbc
+37837;Laura (USA).gbc
+36474;Legend of the River King 2 (USA) (SGB Enhanced).gbc
+37559;Legend of the River King GB (USA) (SGB Enhanced).gbc
+37382;Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev A) (SGB Enhanced).gbc
+36577;Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev B) (SGB Enhanced).gbc
+36752;Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced).gbc
+37026;Legend of Zelda, The - Oracle of Ages (USA).gbc
+37506;Legend of Zelda, The - Oracle of Seasons (USA).gbc
+36570;LEGO Alpha Team (USA).gbc
+36858;LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr,Es).gbc
+37789;LEGO Racers (USA) (En,Fr,Es).gbc
+37681;LEGO Stunt Rally (USA).gbc
+36472;Lemmings (USA).gbc
+36591;Lil' Monster (USA) (SGB Enhanced).gbc
+37082;Lion King, The - Simba's Mighty Adventure (USA, Europe).gbc
+36718;Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It).gbc
+37052;Little Nicky (USA).gbc
+36886;Logical (USA).gbc
+36923;Looney Tunes - Carrot Crazy (USA) (En,Fr,Es).gbc
+36694;Looney Tunes - Twouble! (USA) (En,Fr,Es).gbc
+37269;Looney Tunes (USA).gbc
+36912;Looney Tunes Collector - Alert! (USA) (En,Fr,Es).gbc
+36790;Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl).gbc
+37564;Lucky Luke (USA) (En,Fr,De,Es).gbc
+36741;Lufia - The Legend Returns (USA).gbc
+37812;M&M's Minis Madness (USA).gbc
+37492;M&M's Minis Madness (USA) (Sample).gbc
+36967;Madden NFL 2000 (USA, Europe) (SGB Enhanced).gbc
+36781;Madden NFL 2001 (USA).gbc
+36836;Madden NFL 2002 (USA).gbc
+36826;Magi Nation (USA).gbc
+36627;Magical Drop (USA).gbc
+37842;Magical Tetris Challenge (USA).gbc
+36811;Marble Madness (USA, Europe).gbc
+37551;Mario Golf (USA).gbc
+36536;Mario Tennis (USA).gbc
+37317;Marvin Strikes Back! (USA) (En,Fr,Es).gbc
+37821;Mary-Kate & Ashley - Get a Clue! (USA, Europe).gbc
+37062;Mary-Kate and Ashley - Crush Course (USA, Europe).gbc
+36696;Mary-Kate and Ashley - Pocket Planner (USA, Europe).gbc
+37436;Mary-Kate and Ashley - Winners Circle (USA, Europe).gbc
+36900;Mask of Zorro, The (USA).gbc
+36838;Mat Hoffman's Pro BMX (USA, Europe).gbc
+36710;Matchbox Emergency Patrol (USA, Europe).gbc
+37181;Mega Man Xtreme (USA, Europe).gbc
+37125;Mega Man Xtreme 2 (USA, Europe).gbc
+37324;Men in Black - The Series (USA, Europe) (SGB Enhanced).gbc
+37831;Men in Black 2 - The Series (USA) (En,Fr,De).gbc
+37779;Metal Gear Solid (USA).gbc
+37350;Metal Walker (USA).gbc
+37630;Mia Hamm Soccer Shootout (USA).gbc
+37686;Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).gbc
+36871;Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).gbc
+37704;Micro Machines 1 and 2 - Twin Turbo (USA, Europe).gbc
+37033;Micro Machines V3 (USA, Europe).gbc
+37085;Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA).gbc
+36763;Microsoft - The Best of Entertainment Pack (USA).gbc
+36814;Microsoft Pinball Arcade (USA).gbc
+37487;Millennium Winter Sports (USA).gbc
+37073;Missile Command (USA).gbc
+37038;Mission Impossible (USA) (En,Fr,Es).gbc
+37329;Monopoly (USA).gbc
+36903;Monster Rancher Battle Card GB (USA) (SGB Enhanced).gbc
+37658;Monster Rancher Explorer (USA).gbc
+36597;Monsters, Inc. (USA, Europe).gbc
+37428;Montezuma's Return! (USA) (En,Es).gbc
+37647;Mortal Kombat 4 (USA, Europe) (SGB Enhanced).gbc
+37041;Motocross Maniacs 2 (USA).gbc
+37391;Mr Nutz (USA) (En,Fr,Es).gbc
+37728;Mr. Driller (USA).gbc
+36945;Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced).gbc
+37387;MTV Sports - Pure Ride (USA, Europe).gbc
+36954;MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe).gbc
+37024;MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe).gbc
+37458;Mummy Returns, The (USA).gbc
+36564;Mummy, The (USA).gbc
+37607;Muppets, The (USA).gbc
+37787;Nakayoshi Pet Series 2 - Kawaii Usagi (Japan).gbc
+37561;NASCAR 2000 (USA, Europe).gbc
+36496;NASCAR Challenge (USA).gbc
+37405;NASCAR Heat (USA).gbc
+37370;NASCAR Racers (USA).gbc
+36495;NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced).gbc
+37134;NBA Hoopz (USA).gbc
+37680;NBA In the Zone (USA) (Rev A) (SGB Enhanced).gbc
+37140;NBA In the Zone 2000 (USA).gbc
+37196;NBA Jam '99 (USA, Europe).gbc
+37226;NBA Jam 2001 (USA, Europe).gbc
+36899;NBA Show Time - NBA on NBC (USA).gbc
+36482;New Adventures of Mary-Kate & Ashley, The (USA, Europe).gbc
+37840;New Batman Adventures, The - Chaos in Gotham (USA).gbc
+37001;NFL Blitz (USA, Europe) (Rev A).gbc
+37132;NFL Blitz (USA).gbc
+37755;NFL Blitz 2000 (USA).gbc
+36778;NFL Blitz 2001 (USA).gbc
+37070;NHL 2000 (USA, Europe) (SGB Enhanced).gbc
+37603;NHL Blades of Steel (USA).gbc
+37770;NHL Blades of Steel 2000 (USA).gbc
+37611;Nicktoons Racing (USA).gbc
+36951;NSYNC - Get to the Show (USA).gbc
+37021;Oddworld Adventures II (USA) (En,Fr,De,Es,It).gbc
+36852;Pac-Man - Special Color Edition (USA) (SGB Enhanced).gbc
+37849;Pachinko Hisshou Guide - Data no Ousama (Japan).gbc
+36975;Paperboy (USA, Europe).gbc
+36481;Perfect Dark (USA, Europe) (En,Fr,De,Es,It).gbc
+37143;Pitfall - Beyond the Jungle (USA, Europe).gbc
+37314;Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gbc
+37000;Pocket Bomberman (USA, Europe) (SGB Enhanced).gbc
+37105;Pocket Bowling (USA).gbc
+36670;Pokemon - Crystal Version (USA, Europe).gbc
+37828;Pokemon - Crystal Version (USA, Europe) (Rev A).gbc
+37835;Pokemon - Gold Version (USA, Europe) (SGB Enhanced).gbc
+37149;Pokemon - Silver Version (USA, Europe) (SGB Enhanced).gbc
+36616;Pokemon Pinball (USA) (SGB Enhanced).gbc
+37154;Pokemon Puzzle Challenge (USA).gbc
+37095;Pokemon Trading Card Game (USA) (SGB Enhanced).gbc
+36937;Polaris SnoCross (USA).gbc
+36883;Pong - The Next Level (USA, Europe).gbc
+36487;Pooh and Tigger's Hunny Safari (USA).gbc
+36911;Portal Runner (USA).gbc
+37222;Power Quest (USA) (En,Fr,De,Es,It) (SGB Enhanced).gbc
+37375;Power Rangers - Lightspeed Rescue (USA, Europe).gbc
+37580;Power Rangers - Time Force (USA, Europe).gbc
+36500;Power Spike - Pro Beach Volleyball (USA).gbc
+36504;Powerpuff Girls, The - Bad Mojo Jojo (USA).gbc
+37591;Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev A).gbc
+37793;Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B).gbc
+37058;Powerpuff Girls, The - Battle Him (USA).gbc
+37098;Powerpuff Girls, The - Battle Him (USA) (Rev A).gbc
+37712;Powerpuff Girls, The - Paint the Townsville Green (USA).gbc
+37486;Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev A).gbc
+37242;Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B).gbc
+37533;Prince of Persia (USA, Europe) (En,Fr,De,Es,It).gbc
+36458;Pro Darts (USA).gbc
+36555;Pro Pool (USA) (En,Fr,De).gbc
+37528;Project S-11 (USA).gbc
+37453;Puzzle Master (USA).gbc
+37799;Puzzled (USA).gbc
+36604;Q-bert (USA).gbc
+37691;Quest - Fantasy Challenge (USA) (SGB Enhanced).gbc
+37273;Quest for Camelot (USA) (En,Fr,Es) (SGB Enhanced).gbc
+37743;Quest RPG - Brian's Journey (USA).gbc
+36561;R-Type DX (USA, Europe).gbc
+37411;Rampage - World Tour (USA, Europe).gbc
+36921;Rampage 2 - Universal Tour (USA, Europe).gbc
+36765;Rampart (USA).gbc
+37619;Rats! (USA) (En,Es).gbc
+37521;Rayman (USA) (En,Fr,De,Es,It,Nl).gbc
+36613;Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).gbc
+36786;Razor Freestyle Scooter (USA).gbc
+37077;Ready 2 Rumble Boxing (USA).gbc
+37700;Rescue Heroes - Fire Frenzy (USA).gbc
+36720;Resident Evil Gaiden (USA).gbc
+36648;Return of the Ninja (USA).gbc
+37552;Revelations - The Demon Slayer (USA) (SGB Enhanced).gbc
+37434;Rhino Rumble (USA, Europe).gbc
+37195;Road Champs - BXS Stunt Biking (USA, Europe).gbc
+37525;Road Rash (USA, Europe).gbc
+37072;Roadsters '98 (USA) (Proto) (SGB Enhanced).gbc
+37093;Roadsters Trophy (USA) (En,Fr,De,Es,It,Nl).gbc
+36684;Robopon - Sun Version (USA) (SGB Enhanced).gbc
+37673;Rocket Power - Gettin' Air (USA, Europe).gbc
+37751;Rocky Mountain Trophy Hunter (USA).gbc
+37230;Ronaldo V-Soccer (USA) (En,Fr,Es,Pt).gbc
+37851;Roswell Conspiracies - Aliens, Myths & Legends (USA) (En,Fr,De).gbc
+36949;Rox (USA, Europe).gbc
+37663;Rugrats - Time Travelers (USA, Europe).gbc
+37112;Rugrats - Totally Angelica (USA, Europe).gbc
+37206;Rugrats in Paris - The Movie (USA, Europe).gbc
+36816;Rugrats Movie, The (USA).gbc
+37071;Sabrina - The Animated Series - Spooked! (USA, Europe).gbc
+37637;Sabrina - The Animated Series - Zapped! (USA, Europe).gbc
+36477;San Francisco Rush 2049 (USA, Europe).gbc
+36617;Scooby-Doo! - Classic Creep Capers (USA, Europe).gbc
+37186;Sesame Street Sports (USA).gbc
+36854;Sewing Machine Operation Software (USA) (En,Fr,Es).gbc
+36839;Sgt. Rock - On the Frontline (USA).gbc
+37243;Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).gbc
+36689;Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev A).gbc
+37364;Shamus (USA, Europe).gbc
+37400;Shanghai Pocket (USA, Europe) (Rev A) (SGB Enhanced).gbc
+37410;Shanghai Pocket (USA) (SGB Enhanced).gbc
+37440;Shantae (USA).gbc
+36626;Shaun Palmer's Pro Snowboarder (USA, Australia).gbc
+36977;Shrek - Fairy Tale Freakdown (USA, Europe) (En,Fr,De,Es,It).gbc
+37259;Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe).gbc
+37126;Smurfs Nightmare, The (USA).gbc
+37685;Snoopy Tennis (USA) (En,Fr,Es).gbc
+37476;Snow White and the Seven Dwarfs (USA).gbc
+36989;Soreike! Anpanman - 5-tsu no Tou no Ousama (Japan).gbc
+37465;Space Invaders (USA, Europe).gbc
+37378;Space Marauder (USA).gbc
+37777;Spawn (USA).gbc
+37331;Speedy Gonzales - Aztec Adventure (USA, Europe).gbc
+37347;Spider-Man (USA, Europe).gbc
+36993;Spider-Man 2 - The Sinister Six (USA, Europe).gbc
+37717;SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe).gbc
+36637;Spy vs. Spy (USA).gbc
+37352;Star Wars Episode I - Obi-Wan's Adventures (USA).gbc
+37762;Star Wars Episode I - Racer (USA, Europe).gbc
+37589;Street Fighter Alpha - Warriors' Dreams (USA).gbc
+36506;Stuart Little - The Journey Home (USA, Europe).gbc
+37736;Super Breakout! (USA).gbc
+37293;Super Mario Bros. Deluxe (USA, Europe).gbc
+37485;Super Mario Bros. Deluxe (USA, Europe) (Rev A).gbc
+36920;Super Mario Bros. Deluxe (USA, Europe) (Rev B).gbc
+37814;Survival Kids (USA) (SGB Enhanced).gbc
+37596;Tarzan (USA, Europe).gbc
+36849;Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It).gbc
+36868;Tech Deck Skateboarding (USA, Europe).gbc
+37349;Test Drive 2001 (USA).gbc
+36797;Test Drive 6 (USA).gbc
+36583;Test Drive Cycles (USA).gbc
+37535;Test Drive Le Mans (USA) (En,Fr,Es).gbc
+37204;Test Drive Off-Road 3 (USA) (SGB Enhanced).gbc
+37185;Tiger Woods PGA Tour 2000 (USA, Europe).gbc
+37100;Tiny Toon Adventures - Buster Saves the Day (USA).gbc
+37776;Titus the Fox to Marrakech and Back (USA).gbc
+36990;TNN Outdoors Fishing Champ (USA) (SGB Enhanced).gbc
+37459;TOCA Touring Car Championship (USA, Europe).gbc
+37452;Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).gbc
+36521;Tom & Jerry (USA, Europe).gbc
+37346;Tom and Jerry - Mousehunt (USA) (En,Fr,Es).gbc
+37357;Tom and Jerry in Mouse Attacks! (USA).gbc
+36748;Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De).gbc
+36460;Tomb Raider - Curse of the Sword (USA, Europe).gbc
+37274;Tomb Raider (USA, Europe) (En,Fr,De,Es,It).gbc
+36791;Tomb Raider (USA, Europe) (En,Fr,De,Es,It) (Beta).gbc
+37253;Tonka Construction Site (USA).gbc
+36562;Tonka Raceway (USA).gbc
+37180;Tonka Raceway (USA) (Rumble Version).gbc
+37079;Tony Hawk's Pro Skater (USA, Europe).gbc
+36875;Tony Hawk's Pro Skater 2 (USA, Europe).gbc
+36771;Tony Hawk's Pro Skater 3 (USA, Europe).gbc
+36467;Toobin' (USA).gbc
+37650;Toonsylvania (USA).gbc
+36476;Top Gear Pocket (USA).gbc
+37348;Top Gear Pocket 2 (USA).gbc
+36884;Top Gun - Fire Storm (USA, Europe) (En,Fr,De,Es,It,Nl).gbc
+37310;Towers - Lord Baniff's Deceit (USA, Europe).gbc
+37512;Toy Story 2 (USA, Europe) (SGB Enhanced).gbc
+36565;Toy Story Racer (USA, Europe).gbc
+37749;Trick Boarder (USA).gbc
+37367;Triple Play 2001 (USA, Europe).gbc
+37625;Trouballs (USA).gbc
+37372;Turok - Rage Wars (USA, Europe) (En,Fr,De,Es).gbc
+37369;Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es).gbc
+37811;Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es).gbc
+37013;Tweety's High-Flying Adventure (USA).gbc
+36688;Tyco RC - Racin' Ratz (USA).gbc
+37489;Tyrannosaurus Tex (USA) (Proto).gbc
+36914;Tyrian 2000 (USA) (Proto).gbc
+37576;Ultimate Fighting Championship (USA).gbc
+36501;Ultimate Paint Ball (USA, Europe).gbc
+36918;Ultimate Surfing (USA).gbc
+37156;Uno (USA).gbc
+37724;V-Rally - Championship Edition (USA) (En,Fr,Es).gbc
+36674;Vegas Games (USA).gbc
+37723;Vigilante 8 (USA).gbc
+36520;VIP (USA, Europe) (En,Fr,De,Es,It).gbc
+36657;VIP (USA) (En,Fr,Es).gbc
+37258;Wacky Races (USA) (En,Fr,Es).gbc
+37110;Walt Disney World Quest - Magical Racing Tour (USA, Europe).gbc
+37542;Wario Land II (USA, Europe) (SGB Enhanced).gbc
+36931;Warlocked (USA).gbc
+36995;Warriors of Might and Magic (USA) (En,Fr,De).gbc
+37416;WCW Mayhem (USA, Europe).gbc
+36966;Wendy - Every Witch Way (USA, Europe).gbc
+36497;Who Wants to Be a Millionaire - 2nd Edition (USA).gbc
+36659;Wild Thornberrys, The - Rambler (USA).gbc
+36510;Wings of Fury (USA).gbc
+36639;Winnie the Pooh - Adventures in the 100 Acre Wood (USA).gbc
+37669;Woody Woodpecker (USA).gbc
+36726;Woody Woodpecker Racing (USA).gbc
+36685;World Destruction League - Thunder Tanks (USA) (En,Fr,De).gbc
+37298;Worms Armageddon (USA) (En,Fr,Es).gbc
+37275;WWF Attitude (USA, Europe).gbc
+37047;WWF Betrayal (USA, Europe).gbc
+37818;WWF WrestleMania 2000 (USA, Europe).gbc
+37064;X-Men - Mutant Academy (USA, Europe).gbc
+37800;X-Men - Mutant Academy (USA, Europe) (Rev A).gbc
+36653;X-Men - Mutant Wars (USA, Europe).gbc
+36634;X-Men - Wolverine's Rage (USA).gbc
+37342;Xena - Warrior Princess (USA, Europe) (En,Fr,De,Es,It,Nl).gbc
+37642;Xtreme Sports (USA).gbc
+37335;Xtreme Wheels (USA).gbc
+36731;Yars' Revenge (USA, Europe).gbc
+37284;Yoda Stories (USA, Europe).gbc
+37374;Yogi Bear - Great Balloon Blast (USA).gbc
+36824;Yu-Gi-Oh! - Dark Duel Stories (USA).gbc
+37179;Zebco Fishing! (USA).gbc
+37796;Zoboomafoo - Playtime in Zobooland (USA).gbc

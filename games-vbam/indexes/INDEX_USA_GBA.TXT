@@ -1,0 +1,1063 @@
+54345;007 - Everything or Nothing (USA, Europe) (En,Fr,De).gba
+56199;007 - NightFire (USA, Europe) (En,Fr,De).gba
+55567;2 Game Pack! - Hot Wheels - Stunt Track Challenge + Hot Wheels - World Race (USA, Europe).gba
+55314;2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue (USA).gba
+55362;2 Game Pack! - Uno + Skip-Bo (USA).gba
+54904;2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA).gba
+54446;2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA).gba
+55584;2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA).gba
+55560;2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker (USA).gba
+54360;2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA).gba
+55844;2 Games in 1 - Monsters, Inc. + Finding Nemo (USA).gba
+56366;2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En).gba
+56871;2 Games in 1 - Quad Desert Fury + Monster Trucks (USA).gba
+55429;2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed (USA).gba
+55084;2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (USA) (En,Fr,De+En).gba
+55977;2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA).gba
+54528;2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + The Fairly OddParents! - Breakin' da Rules (USA).gba
+55878;2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (USA).gba
+57120;2 Games in 1! - Dragon Ball Z - Buu's Fury + Dragon Ball GT - Transformation (USA).gba
+54413;2 Games in One! - Dr. Mario + Puzzle League (USA, Australia).gba
+55666;2 Games in One! - Gauntlet + Rampart (USA).gba
+54780;2 Games in One! - Marble Madness + Klax (USA).gba
+54894;2 Games in One! - Paperboy + Rampage (USA).gba
+54655;2 Games in One! - Spy Hunter + Super Sprint (USA).gba
+54628;2 Great Games! - Pac-Man World + Ms. Pac-Man - Maze Madness (USA).gba
+55781;2 in 1 Game Pack - Shrek 2 + Shark Tale (USA).gba
+54342;2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge (USA, Europe).gba
+55987;2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es).gba
+55826;2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer (USA, Europe).gba
+54627;2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA).gba
+56243;2-in-1 Fun Pack - Shrek 2 + Madagascar (USA).gba
+54867;2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).gba
+56666;2K Sports - Major League Baseball 2K7 (USA).gba
+55744;3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA).gba
+56621;3 Game Pack! - Ker Plunk! + Toss Across + Tip It (USA).gba
+56773;3 Game Pack! - Mouse Trap + Simon + Operation (USA).gba
+56663;3 Game Pack! - The Game of Life + Payday + Yahtzee (USA).gba
+56290;3 Games in One! - Breakout + Centipede + Warlords (USA).gba
+56315;3 Games in One! - Super Breakout + Millipede + Lunar Lander (USA).gba
+57109;3 Games in One! - Yars' Revenge + Asteroids + Pong (USA).gba
+54885;4 Games on One Game Pak (Nicktoons) (USA).gba
+54357;4 Games on One Game Pak (Racing) (USA) (En,Fr,De,Es,It,Nl).gba
+56237;Ace Combat Advance (USA, Europe).gba
+54671;Activision Anthology (USA).gba
+55816;Advance Guardian Heroes (USA).gba
+56214;Advance Wars (USA).gba
+56983;Advance Wars (USA) (Rev 1).gba
+55887;Advance Wars 2 - Black Hole Rising (USA, Australia).gba
+56491;Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe).gba
+54378;Adventures of Jimmy Neutron Boy Genius, The - Attack of the Twonkies (USA, Europe).gba
+56473;Adventures of Jimmy Neutron Boy Genius, The - Jet Fusion (USA, Europe).gba
+56015;Aero the Acro-Bat - Rascal Rival Revenge (USA).gba
+57077;Agassi Tennis Generation (USA).gba
+55892;Aggressive Inline (USA).gba
+56114;AirForce Delta Storm (USA) (En,Ja,Fr,De).gba
+57027;Aladdin (USA) (En,Fr,De,Es).gba
+55228;Alex Rider - Stormbreaker (USA).gba
+55739;Alienators - Evolution Continues (USA, Europe).gba
+54577;All Grown Up! - Express Yourself (USA, Europe).gba
+56382;All-Star Baseball 2003 (USA).gba
+56323;All-Star Baseball 2004 (USA).gba
+54347;All-Star Baseball 2004 (USA) (Beta).gba
+56759;All-Star Baseball 2004 (USA) (Beta) (Alt 1).gba
+56372;Altered Beast - Guardian of the Realms (USA).gba
+55764;Amazing Virtual Sea-Monkeys, The (USA).gba
+55442;American Bass Challenge (USA).gba
+55294;American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It).gba
+55095;American Idol (USA).gba
+54383;American Tail, An - Fievel's Gold Rush (USA) (En,Es).gba
+56423;Animal Snap - Rescue Them 2 by 2 (USA).gba
+55926;Ant Bully, The (USA) (En,Fr).gba
+56245;Antz - Extreme Racing (USA).gba
+55455;Archer Maclean's 3D Pool (USA).gba
+55638;Arctic Tale (USA).gba
+54543;Army Men - Operation Green (USA) (En,Fr,De,Es,It).gba
+55539;Army Men - Turf Wars (USA).gba
+56971;Army Men Advance (USA, Europe) (En,Fr,De,Es,It).gba
+56793;Around the World in 80 Days (USA).gba
+54663;Arthur and the Invisibles (USA) (En,Fr,Es).gba
+55957;Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).gba
+54459;Atari Anniversary Advance (USA).gba
+55020;Atlantis - The Lost Empire (USA, Europe).gba
+54844;Atomic Betty (USA, Europe).gba
+54639;ATV - Quad Power Racing (USA, Europe).gba
+55761;ATV - Thunder Ridge Riders (USA).gba
+54606;Avatar - The Last Airbender - The Burning Earth (USA).gba
+57189;Avatar - The Last Airbender (USA).gba
+56553;Babar to the Rescue (USA) (En,Fr,Es).gba
+55754;Back to Stone (USA) (En,Fr).gba
+57081;Back Track (USA, Europe).gba
+57240;Backyard Baseball (USA).gba
+55284;Backyard Baseball 2006 (USA).gba
+55496;Backyard Basketball (USA).gba
+54475;Backyard Football (USA).gba
+55628;Backyard Football 2006 (USA).gba
+56710;Backyard Hockey (USA).gba
+55424;Backyard Skateboarding (USA).gba
+54560;Backyard Sports - Baseball 2007 (USA).gba
+54566;Backyard Sports - Basketball 2007 (USA).gba
+54664;Backyard Sports - Football 2007 (USA).gba
+56929;Baldur's Gate - Dark Alliance (USA).gba
+54529;Ballistic - Ecks vs Sever (USA).gba
+55162;Banjo-Kazooie - Grunty's Revenge (USA, Europe).gba
+56107;Banjo-Pilot (USA).gba
+55370;Barbie - The Princess and the Pauper (USA).gba
+54403;Barbie and the Magic of Pegasus (USA).gba
+54336;Barbie as the Island Princess (USA).gba
+57219;Barbie Diaries, The - High School Mystery (USA).gba
+56717;Barbie Groovy Games (USA).gba
+56551;Barbie Horse Adventures - Blue Ribbon Race (USA).gba
+56429;Barbie in the 12 Dancing Princesses (USA).gba
+54329;Barbie Superpack (USA).gba
+54795;Barnyard (USA).gba
+55102;Baseball Advance (USA).gba
+56890;Batman - Rise of Sin Tzu (USA) (En,Fr,Es).gba
+55369;Batman - Vengeance (USA) (En,Fr,Es).gba
+56061;Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+55417;Battle B-Daman - Fire Spirits! (USA).gba
+55428;Battle B-Daman (USA).gba
+55874;BattleBots - Beyond the BattleBox (USA).gba
+55490;BattleBots - Design & Destroy (USA).gba
+55048;Bee Game, The (USA).gba
+57106;Berenstain Bears and the Spooky Old Tree, The (USA).gba
+55426;Beyblade G-Revolution (USA).gba
+54408;Beyblade V-Force - Ultimate Blader Jam (USA).gba
+56959;Bible Game, The (USA).gba
+54702;Big Mutha Truckers (USA).gba
+55035;Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
+56675;Bionicle - Maze of Shadows (USA).gba
+56796;Bionicle (USA).gba
+55763;Bionicle Heroes (USA) (En,Fr,De,Es,It,Da).gba
+55686;Blackthorne (USA).gba
+55894;Blades of Thunder (USA).gba
+56010;Blender Bros. (USA).gba
+54678;BMX Trick Racer (USA).gba
+54394;Board Game Classics (USA).gba
+54433;Boktai - The Sun Is in Your Hand (USA).gba
+55834;Boktai - The Sun Is in Your Hand (USA) (Beta).gba
+54540;Boktai 2 - Solar Boy Django (USA).gba
+56355;Bomberman Max 2 - Blue Advance (USA).gba
+56399;Bomberman Max 2 - Red Advance (USA).gba
+55348;Bomberman Tournament (USA, Europe).gba
+54362;Bookworm (USA).gba
+56558;Boulder Dash EX (USA).gba
+55181;Boxing Fever (USA, Europe).gba
+57144;Bratz - Babyz (USA).gba
+56264;Bratz - Forever Diamondz (USA).gba
+56634;Bratz - Rock Angelz (USA, Europe).gba
+56265;Bratz - The Movie (USA).gba
+55860;Bratz (USA) (En,Fr,Es).gba
+54379;Breath of Fire (USA).gba
+57174;Breath of Fire II (USA).gba
+56904;Britney's Dance Beat (USA).gba
+54533;Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).gba
+55108;Brother Bear (USA).gba
+56776;Bruce Lee - Return of the Legend (USA).gba
+56215;Bubble Bobble - Old & New (USA).gba
+55633;Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe).gba
+56279;Butt-Ugly Martians - B.K.M. Battles (USA).gba
+55111;Cabbage Patch Kids - The Patch Puppy Rescue (USA).gba
+55985;Cabela's Big Game Hunter - 2005 Adventures (USA, Europe).gba
+56335;Cabela's Big Game Hunter (USA).gba
+57105;Caesars Palace Advance - Millennium Gold Edition (USA, Europe).gba
+55380;Caesars Palace Advance - Millennium Gold Edition (USA) (Beta).gba
+54544;Camp Lazlo - Leaky Lake Games (USA).gba
+56884;Capcom Classics Mini Mix (USA).gba
+56527;Car Battler Joe (USA).gba
+56201;Care Bears - The Care Quests (USA) (En,Fr,Es).gba
+55456;Cars - Mater-National Championship (USA) (En,Fr).gba
+56763;Cars (USA, Europe).gba
+54943;Cartoon Network Block Party (USA).gba
+55569;Cartoon Network Speedway (USA).gba
+56217;Casper (USA) (En,Fr,Es).gba
+57242;Castlevania - Aria of Sorrow (USA).gba
+55480;Castlevania - Circle of the Moon (USA).gba
+54442;Castlevania - Harmony of Dissonance (USA).gba
+56437;Castlevania Double Pack (USA).gba
+55923;Cat in the Hat by Dr. Seuss, The (USA).gba
+54792;Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+54755;Catz (USA, Europe).gba
+56016;Charlie and the Chocolate Factory (USA) (En,Fr,Es,Nl).gba
+54794;Charlotte's Web (USA) (En,Fr,De,Es,It).gba
+55968;Cheetah Girls, The (USA).gba
+54974;Chessmaster (USA).gba
+55966;Chicken Little (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+55789;Chicken Shoot (USA).gba
+56233;Chicken Shoot 2 (USA).gba
+55913;Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
+55852;ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).gba
+55403;CIMA - The Enemy (USA).gba
+55326;Cinderella - Magical Dreams (USA) (En,Fr,De,Es,It).gba
+56257;Classic NES Series - Bomberman (USA, Europe).gba
+54429;Classic NES Series - Castlevania (USA, Europe).gba
+56385;Classic NES Series - Donkey Kong (USA, Europe).gba
+55021;Classic NES Series - Dr. Mario (USA, Europe).gba
+55227;Classic NES Series - Excitebike (USA, Europe).gba
+57139;Classic NES Series - Ice Climber (USA, Europe).gba
+55300;Classic NES Series - Legend of Zelda (USA, Europe).gba
+54512;Classic NES Series - Metroid (USA, Europe).gba
+56772;Classic NES Series - Pac-Man (USA, Europe).gba
+56842;Classic NES Series - Super Mario Bros. (USA, Europe).gba
+55196;Classic NES Series - Xevious (USA, Europe).gba
+55192;Classic NES Series - Zelda II - The Adventure of Link (USA, Europe).gba
+55969;CodeBreaker (USA) (Unl).gba
+56982;Codename - Kids Next Door - Operation S.O.D.A. (USA).gba
+57130;Colin McRae Rally 2.0 (USA) (En,Fr,De).gba
+56581;Columns Crown (USA).gba
+54648;Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba
+54596;Contra Advance - The Alien Wars EX (USA).gba
+54480;Corvette (USA) (En,Fr,De,Es,It).gba
+55142;Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA).gba
+57232;Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA).gba
+55838;Crash Bandicoot - The Huge Adventure (USA).gba
+56684;Crash Bandicoot 2 - N-Tranced (USA).gba
+55931;Crash Bandicoot Purple - Ripto's Rampage (USA).gba
+54546;Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1).gba
+55315;Crash Nitro Kart (USA).gba
+55235;Crash of the Titans (USA) (En,Fr).gba
+55471;Crash Superpack (USA).gba
+56934;Crazy Chase (USA).gba
+56267;Crazy Taxi - Catch a Ride (USA).gba
+56329;Crouching Tiger, Hidden Dragon (USA) (Beta).gba
+55025;Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es).gba
+56046;Cruis'n Velocity (USA, Europe).gba
+57087;Cruis'n Velocity (USA) (Beta).gba
+54980;Crushed Baseball (USA).gba
+56495;CT Special Forces (USA) (En,Fr,De,Es,It,Nl).gba
+56766;CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).gba
+56049;Cubix - Robots for Everyone - Clash 'N Bash (USA).gba
+54508;Curious George (USA).gba
+56151;Danny Phantom - The Ultimate Enemy (USA).gba
+55075;Danny Phantom - Urban Jungle (USA).gba
+55219;Daredevil (USA, Europe).gba
+54915;Dark Arena (USA, Europe).gba
+55856;Dave Mirra Freestyle BMX 2 (USA).gba
+56643;Dave Mirra Freestyle BMX 3 (USA, Europe).gba
+55297;David Beckham Soccer (USA) (En,Es).gba
+55746;Davis Cup (USA) (En,Fr,De,Es,It).gba
+57158;Dead to Rights (USA).gba
+56781;Deal or No Deal (USA).gba
+56327;Defender (USA).gba
+55332;Defender of the Crown (USA).gba
+54833;DemiKids - Dark Version (USA).gba
+55593;DemiKids - Light Version (USA).gba
+56231;Demon Driver - Time to Burn Rubber! (USA).gba
+57239;Denki Blocks! (USA) (En,Es).gba
+56207;Desert Strike Advance (USA).gba
+56805;Dexter's Laboratory - Chess Challenge (USA).gba
+55523;Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It).gba
+56574;Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It) (Rev 1).gba
+55515;Digimon - Battle Spirit (USA).gba
+55800;Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It).gba
+57102;Digimon Racing (USA) (En,Fr,De,Es,It).gba
+55379;Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+55310;Disney Princess - Royal Adventure (USA).gba
+56242;Disney Princess (USA, Europe).gba
+54811;Disney Sports - Basketball (USA).gba
+55516;Disney Sports - Football (USA).gba
+56206;Disney Sports - Motocross (USA).gba
+56011;Disney Sports - Skateboarding (USA).gba
+55802;Disney Sports - Snowboarding (USA).gba
+56155;Disney Sports - Soccer (USA).gba
+55010;Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).gba
+54932;Disney's Party (USA, Europe) (En,Fr,De,Es,It).gba
+55795;DK - King of Swing (USA, Australia).gba
+55448;DK - King of Swing (USA) (Demo) (Kiosk).gba
+56441;Dogz - Fashion (USA).gba
+54590;Dogz (USA).gba
+54897;Dogz 2 (USA).gba
+57216;Dokapon (USA).gba
+55683;Donald Duck Advance (USA).gba
+55694;Donkey Kong Country (USA).gba
+55563;Donkey Kong Country 2 (USA, Australia).gba
+54499;Donkey Kong Country 3 (USA, Australia).gba
+56622;Doom (USA, Europe).gba
+56530;Doom II (USA).gba
+55870;Dora the Explorer - Dora's World Adventure! (USA).gba
+56865;Dora the Explorer - Super Spies (USA).gba
+56351;Dora the Explorer - Super Star Adventures! (USA).gba
+54970;Dora the Explorer - The Search for the Pirate Pig's Treasure (USA).gba
+56401;Dora the Explorer Double Pack (USA).gba
+56742;Double Dragon Advance (USA).gba
+55103;Downforce (USA, Europe) (En,Fr,De,Es,It).gba
+54426;Dr. Seuss' - The Cat in the Hat (USA).gba
+56450;Dr. Sudoku (USA).gba
+56506;Dragon Ball - Advanced Adventure (USA).gba
+55611;Dragon Ball GT - Transformation (USA).gba
+55224;Dragon Ball Z - Buu's Fury (USA).gba
+55269;Dragon Ball Z - Collectible Card Game (USA).gba
+54971;Dragon Ball Z - Supersonic Warriors (USA).gba
+56057;Dragon Ball Z - Taiketsu (USA).gba
+55281;Dragon Ball Z - The Legacy of Goku (USA).gba
+54399;Dragon Ball Z - The Legacy of Goku II (USA).gba
+56220;Dragon Tales - Dragon Adventures (USA).gba
+54982;Drake & Josh (USA) (En,Fr).gba
+55714;Drill Dozer (USA).gba
+56470;Driv3r (USA).gba
+54602;Driven (USA) (En,Fr,De,Es,It).gba
+56505;Driver 2 Advance (USA).gba
+55278;Drome Racers (USA).gba
+54850;Dual Blades (USA).gba
+55791;Duel Masters - Kaijudo Showdown (USA).gba
+54994;Duel Masters - Sempai Legends (USA).gba
+54929;Duel Masters - Shadow of the Code (USA).gba
+56291;Duke Nukem Advance (USA).gba
+54969;Dungeons & Dragons - Eye of the Beholder (USA).gba
+54604;Dynasty Warriors Advance (USA, Australia).gba
+55474;e-Reader (USA).gba
+55891;E.T. - The Extra-Terrestrial (USA).gba
+56311;Earthworm Jim (USA, Europe).gba
+55755;Earthworm Jim 2 (USA).gba
+57050;Ecks vs Sever (USA) (En,Fr,De,Es,It).gba
+56832;Ed, Edd n Eddy - Jawbreakers! (USA).gba
+56197;Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1).gba
+57215;Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr).gba
+54654;Egg Mania (USA) (En,Fr,Es).gba
+55753;Elf - The Movie (USA) (En,Fr,De,Es,It).gba
+55777;Elf Bowling 1 & 2 (USA).gba
+54549;Enchanted - Once Upon Andalasia (USA) (En,Fr).gba
+55734;Eragon (USA).gba
+56584;ESPN Final Round Golf 2002 (USA).gba
+57059;ESPN Great Outdoor Games - Bass 2002 (USA).gba
+54618;ESPN International Winter Sports 2002 (USA).gba
+55571;ESPN Winter X-Games Snowboarding 2002 (USA).gba
+55950;ESPN X-Games Skateboarding (USA).gba
+56081;Ever Girl (USA).gba
+54649;Extreme Ghostbusters - Code Ecto-1 (USA).gba
+56683;Extreme Skate Adventure (USA, Europe).gba
+54979;F-14 Tomcat (USA, Europe).gba
+54574;F-Zero - GP Legend (USA).gba
+54353;F-Zero - Maximum Velocity (USA, Europe).gba
+55610;F1 2002 (USA, Europe).gba
+55318;F24 Stealth Fighter (USA).gba
+55363;Fairly OddParents!, The - Breakin' da Rules (USA).gba
+56916;Fairly OddParents!, The - Clash with the Anti-World (USA).gba
+56140;Fairly OddParents!, The - Enter the Cleft (USA).gba
+56175;Fairly OddParents!, The - Shadow Showdown (USA).gba
+56260;Family Feud (USA).gba
+55589;Fantastic 4 - Flame On (USA).gba
+54963;Fantastic 4 (USA).gba
+56994;Fear Factor Unleashed (USA).gba
+54361;FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+57206;FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es).gba
+54728;FIFA Soccer 2003 (USA, Europe) (En,Fr,De,Es,It).gba
+54601;FIFA Soccer 2004 (USA, Europe) (En,Fr,De,Es,It).gba
+56321;FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+55972;Final Fantasy I & II - Dawn of Souls (USA, Australia).gba
+54961;Final Fantasy IV Advance (USA, Australia).gba
+55073;Final Fantasy Tactics Advance (USA, Australia).gba
+56181;Final Fantasy V Advance (USA).gba
+56434;Final Fantasy VI Advance (USA).gba
+56708;Final Fight One (USA).gba
+55446;Finding Nemo - The Continuing Adventures (USA, Europe).gba
+55788;Finding Nemo (USA, Europe).gba
+57178;Fire Emblem - The Sacred Stones (USA, Australia).gba
+55804;Fire Emblem (USA, Australia).gba
+56874;Fire Pro Wrestling (USA, Europe).gba
+54396;Fire Pro Wrestling 2 (USA).gba
+57117;Flintstones, The - Big Trouble in Bedrock (USA).gba
+54541;Flushed Away (USA).gba
+55919;Ford Racing 3 (USA).gba
+55918;Fortress (USA, Europe).gba
+55327;Foster's Home for Imaginary Friends (USA).gba
+57094;Franklin the Turtle (USA) (En,Fr,De,Es,It,Sv,No,Da,Fi).gba
+56898;Franklin's Great Adventures (USA) (En,Fr,Es).gba
+56121;Freekstyle (USA).gba
+57234;Frogger Advance - The Great Quest (USA).gba
+55839;Frogger's Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It).gba
+54435;Frogger's Adventures 2 - The Lost Wand (USA) (En,Es).gba
+55671;Frogger's Journey - The Forgotten Relic (USA).gba
+54924;Gadget Racers (USA).gba
+54644;Galaxy Angel Game Boy Advance - Moridakusan Tenshi no Full-Course - Okawari Jiyuu (Japan).gba
+56043;Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da).gba
+55292;Game & Watch Gallery 4 (USA).gba
+55427;Game Boy Advance Video - All Grown Up! - Volume 1 (USA).gba
+55600;Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA).gba
+56550;Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe).gba
+56149;Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe).gba
+55932;Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe).gba
+55083;Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA).gba
+56249;Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe).gba
+54927;Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe).gba
+57021;Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA).gba
+54377;Game Boy Advance Video - Dora the Explorer - Volume 1 (USA).gba
+56490;Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA).gba
+55420;Game Boy Advance Video - Nicktoons - Volume 3 (USA).gba
+55358;Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA).gba
+55018;Game Boy Advance Video - Nicktoons Collection - Volume 2 (USA).gba
+56739;Game Boy Advance Video - Pokemon - Volume 1 (USA).gba
+55958;Game Boy Advance Video - Pokemon - Volume 2 (USA).gba
+56093;Game Boy Advance Video - Pokemon - Volume 3 (USA).gba
+56210;Game Boy Advance Video - Pokemon - Volume 4 (USA).gba
+54870;Game Boy Advance Video - Sonic X - Volume 1 (USA).gba
+55527;Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1).gba
+55794;Game Boy Advance Video - SpongeBob SquarePants - Volume 2 (USA) (Rev 1).gba
+54404;Game Boy Advance Video - SpongeBob SquarePants - Volume 3 (USA).gba
+55452;Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA).gba
+56618;Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA).gba
+56554;Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe).gba
+55121;Game Boy Advance Video - The Adventures of Jimmy Neutron Boy Genius - Volume 1 (USA).gba
+57041;Game Boy Advance Video - The Fairly OddParents! - Volume 1 (USA).gba
+57022;Game Boy Advance Video - The Fairly OddParents! - Volume 2 (USA) (Rev 1).gba
+54718;Game Boy Advance Video - The Proud Family - Volume 1 (USA).gba
+55517;Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe).gba
+56365;Games Explosion! (USA).gba
+56402;GameShark GBA (USA) (Alt 1) (Unl).gba
+55559;GameShark GBA (USA) (Unl).gba
+55704;Garfield - The Search for Pooky (USA) (En,Fr,De,Es,It).gba
+55028;Garfield and His Nine Lives (USA) (En,Fr,Es).gba
+55063;Gauntlet - Dark Legacy (USA).gba
+57161;GBA Personal Organizer (USA) (Unl).gba
+56747;Gekido Advance - Kintaro's Revenge (USA).gba
+54899;Gem Smashers (USA).gba
+57023;Ghost Rider (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+54893;Global Star - Sudoku Fever (USA).gba
+56459;Godzilla - Domination! (USA).gba
+54796;Golden Nugget Casino (USA, Europe).gba
+54669;Golden Sun - The Lost Age (USA, Europe).gba
+55330;Golden Sun (USA, Europe).gba
+54760;GP-1 Racing (USA) (Proto).gba
+54733;Gradius Galaxies (USA).gba
+55689;Grand Theft Auto Advance (USA).gba
+55178;Green Eggs and Ham by Dr. Seuss (USA).gba
+56032;Greg Hastings' Tournament Paintball Max'd (USA).gba
+56697;Gremlins - Stripe vs Gizmo (USA).gba
+55829;Grim Adventures of Billy & Mandy, The (USA).gba
+56788;GT Advance - Championship Racing (USA, Europe).gba
+56407;GT Advance 2 - Rally Racing (USA).gba
+56286;GT Advance 3 - Pro Concept Racing (USA).gba
+57099;Guilty Gear X - Advance Edition (USA).gba
+55477;Gumby vs. the Astrobots (USA).gba
+55311;Gunstar Super Heroes (USA).gba
+57079;Hamtaro - Ham-Ham Games (Japan, USA) (En,Ja).gba
+56108;Hamtaro - Ham-Ham Heartbreak (USA).gba
+54858;Happy Feet (USA) (En,Fr).gba
+55916;Hardcore Pinball (USA, Europe).gba
+56817;Harlem Globetrotters - World Tour (USA).gba
+56619;Harry Potter - Quidditch World Cup (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba
+56685;Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).gba
+55407;Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba
+56895;Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba
+55801;Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).gba
+55338;Harvest Moon - Friends of Mineral Town (USA).gba
+56452;Harvest Moon - More Friends of Mineral Town (USA).gba
+56040;Haunted Mansion, The (USA) (Proto).gba
+54389;Hello Kitty - Happy Party Pals (USA).gba
+55720;Herbie - Fully Loaded (USA).gba
+55008;Hey Arnold! - The Movie (USA).gba
+57245;Hi Hi Puffy AmiYumi - Kaznapped! (USA).gba
+56703;High Heat Major League Baseball 2002 (USA, Europe).gba
+56852;High Heat Major League Baseball 2003 (USA).gba
+55131;High School Musical - Livin' the Dream (USA).gba
+55165;High School Musical - Livin' the Dream (USA) (Beta).gba
+55824;Hobbit, The (USA).gba
+54558;Home on the Range (USA) (En,Fr).gba
+56620;Horsez (USA).gba
+55578;Hot Potato! (USA).gba
+55077;Hot Wheels - All Out (USA).gba
+55259;Hot Wheels - Burnin' Rubber (USA).gba
+56648;Hot Wheels - Stunt Track Challenge (USA, Europe).gba
+56612;Hot Wheels - Velocity X (USA).gba
+56760;Hot Wheels - World Race (USA).gba
+55722;Hugo - The Evil Mirror Advance (USA) (En,Fr,Es).gba
+54871;I Spy Challenger! (USA).gba
+54709;Ice Age (USA) (En,Fr,Es).gba
+57123;Ice Age 2 - The Meltdown (USA).gba
+57211;Ice Nine (USA, Europe) (En,Fr,De,Es,It).gba
+55922;Incredible Hulk, The (USA).gba
+56103;Incredibles, The - Rise of the Underminer (USA, Europe).gba
+54926;Incredibles, The (USA, Europe).gba
+56885;Inspector Gadget - Advance Mission (USA).gba
+56627;International Karate Plus (USA).gba
+56575;Invincible Iron Man, The (USA, Europe).gba
+55995;Iridion 3D (USA, Europe).gba
+54692;Iridion II (USA).gba
+56503;It's Mr. Pants (USA, Europe).gba
+54821;Jackie Chan Adventures - Legend of the Darkhand (USA, Europe).gba
+56115;James Pond - Codename Robocod (USA) (En,Fr,Es,Pt).gba
+57171;Jazz Jackrabbit (USA, Europe).gba
+54653;Jet Grind Radio (USA).gba
+56443;Jimmy Neutron Boy Genius (USA).gba
+55392;Jonny Moseley Mad Trix (USA) (En,Fr,De,Es,It).gba
+54455;Juka and the Monophonic Menace (USA) (En,Fr,Es).gba
+54351;Jungle Book, The (USA) (En,Fr,De,Es,It,Nl).gba
+56227;Jurassic Park III - Island Attack (USA).gba
+54335;Jurassic Park III - Park Builder (USA).gba
+56802;Jurassic Park III - The DNA Factor (USA).gba
+54973;Justice League - Injustice for All (USA).gba
+54954;Justice League - Injustice for All (USA) (Beta).gba
+56659;Justice League Chronicles (USA).gba
+55521;Justice League Heroes - The Flash (USA).gba
+55201;Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl).gba
+54659;Karnaaj Rally (USA, Europe).gba
+54462;Kelly Slater's Pro Surfer (USA, Europe).gba
+54836;Kid's Cards (USA).gba
+56822;Kien (USA) (Proto).gba
+55059;Kill Switch (USA).gba
+54633;Killer 3D Pool (USA).gba
+55461;Kim Possible - Revenge of Monkey Fist (USA).gba
+54889;Kim Possible 2 - Drakken's Demise (USA) (En,Fr).gba
+55321;Kim Possible III - Team Possible (USA) (En,Fr).gba
+55672;King of Fighters EX, The - NeoBlood (USA).gba
+56899;King of Fighters EX, The - NeoBlood (USA) (Rev 1).gba
+56426;King of Fighters EX2, The - Howling Blood (USA).gba
+55289;Kingdom Hearts - Chain of Memories (USA).gba
+56235;Kirby - Nightmare in Dream Land (USA).gba
+56064;Kirby & the Amazing Mirror (USA).gba
+54983;Klonoa - Empire of Dreams (USA).gba
+56569;Klonoa 2 - Dream Champ Tournament (USA).gba
+57075;Knights' Kingdom (USA).gba
+56412;Koala Brothers - Outback Adventures (USA) (En,Fr,De,Es,It,Nl,Pt,Da).gba
+56632;Konami Collector's Series - Arcade Advanced (USA).gba
+56289;Konami Krazy Racers (USA).gba
+54422;Konami Krazy Racers (USA) (Beta).gba
+55070;Kong - King of Atlantis (USA).gba
+56591;Kong - The 8th Wonder of the World (USA) (En,Fr,Es).gba
+54800;Kong - The Animated Series (USA) (En,Fr,De,Es,It,Nl).gba
+55140;Lady Sia (USA) (En,Fr,De,Es,It,Nl).gba
+54532;Land Before Time, The - Into the Mysterious Beyond (USA) (En,Fr,Es).gba
+56129;Land Before Time, The (USA) (En,Es).gba
+56936;Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).gba
+55367;Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).gba
+55656;Legend of Spyro, The - A New Beginning (USA).gba
+55947;Legend of Spyro, The - The Eternal Night (USA) (En,Fr).gba
+56281;Legend of Zelda, The - A Link to the Past & Four Swords (USA, Australia).gba
+55000;Legend of Zelda, The - The Minish Cap (USA).gba
+56077;Legend of Zelda, The - The Minish Cap (USA) (Demo) (Kiosk).gba
+56778;Legends of Wrestling II (USA, Europe).gba
+56066;LEGO Bionicle (USA) (En,Fr).gba
+56729;LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
+54898;LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr).gba
+56472;LEGO Racers 2 (USA) (En,Fr).gba
+55303;LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
+54610;LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba
+56496;LEGO Star Wars II - The Original Trilogy (USA).gba
+56523;Lemony Snicket's A Series of Unfortunate Events (USA, Europe).gba
+56706;Let's Ride! - Dreamer (USA).gba
+56837;Let's Ride! - Friends Forever (USA).gba
+55973;Let's Ride! - Sunshine Stables (USA).gba
+56012;Lilo & Stitch (USA).gba
+55825;Lilo & Stitch 2 - Haemsterviel Havoc (USA).gba
+56758;Lion King 1 1-2, The (USA).gba
+56687;Little Einsteins (USA).gba
+57188;Little League Baseball 2002 (USA) (En,Es).gba
+54652;Little Mermaid, The - Magic in Two Kingdoms (USA, Europe) (En,Fr,De,Es,It).gba
+55510;Lizzie McGuire - On the Go! (USA).gba
+56995;Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).gba
+55828;Lizzie McGuire 3 - Homecoming Havoc (USA).gba
+57029;Looney Tunes - Back in Action (USA, Europe) (En,Fr,De,Es,It).gba
+54874;Looney Tunes Double Pack (USA).gba
+56978;Lord of the Rings, The - The Fellowship of the Ring (USA).gba
+54460;Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).gba
+56497;Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It).gba
+56261;Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+55767;Lost Vikings, The (USA).gba
+55938;Lufia - The Ruins of Lore (USA).gba
+54518;Lunar Legend (USA).gba
+54716;M&M's - Blast! (USA).gba
+55046;M&M's - Break 'em (USA) (Rev 1).gba
+54420;Madagascar - Operation Penguin (USA).gba
+56161;Madagascar (USA).gba
+54933;Madden NFL 06 (USA).gba
+56006;Madden NFL 07 (USA).gba
+55067;Madden NFL 2002 (USA).gba
+56350;Madden NFL 2003 (USA).gba
+56094;Madden NFL 2004 (USA).gba
+55890;Madden NFL 2005 (USA).gba
+57129;Magical Quest 2 Starring Mickey & Minnie (USA) (En,Fr,De).gba
+56514;Magical Quest 3 Starring Mickey & Donald (USA) (En,Fr,De).gba
+54995;Magical Quest Starring Mickey & Minnie (USA).gba
+56771;Majesco's Rec Room Challenge (USA).gba
+55105;Majesco's Sports Pack (USA).gba
+54824;March of the Penguins (USA).gba
+55057;Mario & Luigi - Superstar Saga (USA, Australia).gba
+54341;Mario & Luigi - Superstar Saga (USA) (Demo) (Kiosk).gba
+55883;Mario Golf - Advance Tour (USA).gba
+55601;Mario Kart - Super Circuit (USA).gba
+57063;Mario Party Advance (USA).gba
+55041;Mario Pinball Land (USA, Australia).gba
+57083;Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).gba
+55099;Mario vs. Donkey Kong (USA, Australia).gba
+54563;Marvel - Ultimate Alliance (USA).gba
+57176;Mary-Kate and Ashley - Girls Night Out (USA).gba
+56488;Mary-Kate and Ashley Sweet 16 - Licensed to Drive (USA, Europe).gba
+57199;Masters of the Universe He-Man - Power of Grayskull (USA).gba
+55071;Mat Hoffman's Pro BMX (USA, Europe).gba
+55745;Mat Hoffman's Pro BMX 2 (USA, Europe).gba
+56814;Matchbox Cross Town Heroes (USA).gba
+54461;Math Patrol - The Kleptoid Threat (USA).gba
+56754;Max Payne (USA).gba
+54693;Mazes of Fate (USA) (En,Fr,De,Es,It).gba
+56431;Mech Platoon (USA).gba
+55573;Medabots - Metabee (USA).gba
+55506;Medabots - Rokusho (USA).gba
+54477;Medabots AX - Metabee Ver. (USA).gba
+54892;Medabots AX - Rokusho Ver. (USA).gba
+55291;Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De).gba
+56657;Medal of Honor - Underground (USA).gba
+54901;Meet the Robinsons (USA).gba
+56477;Mega Man & Bass (USA).gba
+54863;Mega Man Battle Chip Challenge (USA).gba
+56889;Mega Man Battle Network (USA).gba
+56487;Mega Man Battle Network 2 (USA).gba
+55328;Mega Man Battle Network 3 - Blue Version (USA).gba
+56533;Mega Man Battle Network 3 - White Version (USA).gba
+54831;Mega Man Battle Network 4 - Blue Moon (USA).gba
+54398;Mega Man Battle Network 4 - Red Sun (USA).gba
+57001;Mega Man Battle Network 5 - Team Colonel (USA).gba
+55679;Mega Man Battle Network 5 - Team Proto Man (USA).gba
+55135;Mega Man Battle Network 6 - Cybeast Falzar (USA).gba
+54338;Mega Man Battle Network 6 - Cybeast Gregar (USA).gba
+54562;Mega Man Zero (USA, Europe).gba
+57018;Mega Man Zero 2 (USA).gba
+56586;Mega Man Zero 3 (USA).gba
+56769;Mega Man Zero 4 (USA).gba
+54660;Men in Black - The Series (USA).gba
+55605;Metal Slug Advance (USA).gba
+55232;Metroid - Zero Mission (USA).gba
+55596;Metroid Fusion (USA, Australia).gba
+55994;Midnight Club - Street Racing (USA).gba
+54646;Midway's Greatest Arcade Hits (USA, Europe).gba
+56850;Mighty Beanz Pocket Puzzles (USA).gba
+54900;Mike Tyson Boxing (USA) (En,Fr,De,Es,It).gba
+56846;Minority Report - Everybody Runs (USA, Europe).gba
+56024;Mission Impossible - Operation Surma (USA) (En,Fr,Es).gba
+55616;MLB SlugFest 20-04 (USA).gba
+56221;Mobile Suit Gundam Seed - Battle Assault (USA).gba
+56158;Monopoly (USA).gba
+55061;Monster Force (USA).gba
+54928;Monster House (USA) (En,Fr).gba
+55636;Monster Jam - Maximum Destruction (USA).gba
+54452;Monster Rancher Advance (USA).gba
+56868;Monster Rancher Advance 2 (USA).gba
+56146;Monster Truck Madness (USA, Europe).gba
+56623;Monster Trucks (USA, Europe).gba
+55981;Monster Trucks Mayhem (USA).gba
+54333;Monster! Bass Fishing (USA).gba
+54598;Monsters, Inc. (USA, Europe).gba
+57203;Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It).gba
+56104;Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It).gba
+56371;Mortal Kombat Advance (USA).gba
+55989;Moto GP (USA) (En,Fr,De,Es,It).gba
+56476;Motocross Challenge (USA) (Proto).gba
+57194;Motocross Maniacs Advance (USA) (En,Es).gba
+54697;Motoracer Advance (USA) (En,Fr,De,Es,It).gba
+56721;Mr. Driller 2 (USA).gba
+56993;Ms. Pac-Man - Maze Madness (USA).gba
+55699;Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es).gba
+56761;Mummy, The (USA) (En,Fr,De,Es,It).gba
+56185;Muppet Pinball Mayhem (USA).gba
+56383;Muppets, The - On with the Show! (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+57051;MX 2002 featuring Ricky Carmichael (USA, Europe).gba
+55953;My Little Pony - Crystal Princess - The Runaway Rainbow (USA).gba
+54797;Namco Museum - 50th Anniversary (USA).gba
+55524;Namco Museum (USA).gba
+56989;Nancy Drew - Message in a Haunted Mansion (USA).gba
+57224;Naruto - Ninja Council (USA).gba
+55159;Naruto - Ninja Council 2 (USA).gba
+57038;NASCAR Heat 2002 (USA).gba
+56616;NBA Jam 2002 (USA, Europe).gba
+54793;Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba
+55184;Need for Speed - Porsche Unleashed (USA).gba
+56999;Need for Speed - Underground (USA, Europe) (En,Fr,De,It).gba
+54645;Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It).gba
+56907;Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It).gba
+54478;NFL Blitz 20-02 (USA).gba
+55237;NFL Blitz 20-03 (USA).gba
+56705;NHL 2002 (USA).gba
+55166;NHL Hitz 20-03 (USA).gba
+54869;Nicktoons - Attack of the Toybots (USA).gba
+57197;Nicktoons - Battle for Volcano Island (USA).gba
+57037;Nicktoons - Freeze Frame Frenzy (USA).gba
+56741;Nicktoons Racing (USA).gba
+54568;Nicktoons Unite! (USA).gba
+54941;Ninja Five-0 (USA).gba
+54759;No Rules - Get Phat (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+55678;Noddy - A Day in Toyland (USA) (En,Fr,Es).gba
+54785;Oddworld - Munch's Oddysee (USA, Europe).gba
+56820;One Piece (USA).gba
+56044;Onimusha Tactics (USA).gba
+56457;Open Season (USA) (En,Fr,Es).gba
+57229;Operation Armored Liberty (USA).gba
+57071;Over the Hedge - Hammy Goes Nuts! (USA).gba
+56013;Over the Hedge (USA).gba
+55841;Ozzy & Drix (USA).gba
+57115;Pac-Man Collection (USA).gba
+56770;Pac-Man Pinball Advance (USA).gba
+55244;Pac-Man World (USA).gba
+56956;Pac-Man World 2 (USA).gba
+55851;Paws & Claws - Best Friends - Dogs & Cats (USA).gba
+55641;Paws & Claws - Pet Resort (USA).gba
+56813;Peter Pan - Return to Neverland (USA).gba
+54903;Peter Pan - The Motion Picture Event (USA).gba
+54775;Petz - Hamsterz Life 2 (USA).gba
+55500;Petz Vet (USA).gba
+56272;Phalanx (USA).gba
+54486;Phantasy Star Collection (USA).gba
+56987;Phil of the Future (USA).gba
+55286;Piglet's Big Game (USA).gba
+55866;Pinball of the Dead, The (USA).gba
+55667;Pinball Tycoon (USA).gba
+55481;Pink Panther - Pinkadelic Pursuit (USA).gba
+56764;Pinobee - Wings of Adventure (USA, Europe).gba
+55758;Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It).gba
+56088;Pirates of the Caribbean - The Curse of the Black Pearl (USA) (En,Fr,De,Es,It).gba
+56418;Pitfall - The Lost Expedition (USA).gba
+57134;Pitfall - The Mayan Adventure (USA, Europe).gba
+56883;Planet Monsters (USA) (En,Fr,De,Es,It,Nl).gba
+56126;Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gba
+55307;Pocket Dogs (USA).gba
+56404;Pocket Professor - Kwik Notes - Vol. 1 (USA).gba
+56110;Pocky & Rocky with Becky (USA).gba
+54799;Pokemon - Emerald Version (USA, Europe).gba
+55544;Pokemon - FireRed Version (USA, Europe) (Rev 1).gba
+54685;Pokemon - FireRed Version (USA).gba
+55642;Pokemon - LeafGreen Version (USA).gba
+56736;Pokemon - Ruby Version (USA, Europe) (Rev 2).gba
+55982;Pokemon - Ruby Version (USA).gba
+54400;Pokemon - Sapphire Version (USA, Europe) (Rev 2).gba
+56499;Pokemon - Sapphire Version (USA).gba
+55171;Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).gba
+57180;Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk).gba
+57220;Pokemon Pinball - Ruby & Sapphire (USA).gba
+55154;Polar Express, The (USA, Europe) (En,Fr,De,Es,It).gba
+56460;Polarium Advance (USA).gba
+56942;Polly Pocket! - Super Splash Island (USA) (Destination Software).gba
+55416;Polly Pocket! - Super Splash Island (USA) (Vivendi).gba
+56458;Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It).gba
+54490;Power Rangers - Dino Thunder (USA, Europe).gba
+57136;Power Rangers - Ninja Storm (USA).gba
+56676;Power Rangers - Time Force (USA, Europe).gba
+55350;Power Rangers - Wild Force (USA, Europe).gba
+56564;Power Rangers S.P.D. (USA, Europe).gba
+56250;Powerpuff Girls, The - Him and Seek (USA).gba
+55404;Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl).gba
+56786;Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+56428;Prehistorik Man (USA) (En,Fr,De,Es,It,Nl) (Beta).gba
+55681;Prince of Persia - The Sands of Time (USA) (En,Fr,Es).gba
+56317;Princess Natasha - Student, Secret Agent, Princess (USA).gba
+54687;Proud Family, The (USA).gba
+56071;Punch King - Arcade Boxing (USA).gba
+55884;Puppy Luv - Spa and Resort (USA).gba
+55520;Puyo Pop (USA) (En,Ja).gba
+57131;Quad Desert Fury (USA, Europe).gba
+54410;R-Type III - The Third Lightning (USA).gba
+56370;Racing Gears Advance (USA).gba
+54359;Rampage - Puzzle Attack (USA, Europe).gba
+56633;Rapala Pro Fishing (USA, Europe).gba
+54364;Ratatouille (USA).gba
+54570;Rave Master - Special Attack Force! (USA).gba
+56218;Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It).gba
+54695;Rayman - Hoodlum's Revenge (USA) (En,Fr,Es).gba
+54343;Rayman - Raving Rabbids (USA) (En,Fr,Es).gba
+56439;Rayman 3 (USA) (En,Fr,Es).gba
+56541;Rayman Advance (USA) (En,Fr,De,Es,It).gba
+54956;Razor Freestyle Scooter (USA).gba
+57100;Ready 2 Rumble Boxing - Round 2 (USA).gba
+56019;Rebelstar - Tactical Command (USA).gba
+56248;Reign of Fire (USA) (En,Fr,De,Es,It).gba
+57101;Rescue Heroes - Billy Blazes! (USA).gba
+55772;Revenge of Shinobi, The (USA).gba
+56909;Ripping Friends, The (USA, Europe).gba
+55361;River City Ransom EX (USA).gba
+56969;Riviera - The Promised Land (USA).gba
+55214;Road Rash - Jailbreak (USA).gba
+55372;Road Trip - Shifting Gears (USA).gba
+54757;Robopon 2 - Cross Version (USA).gba
+57244;Robopon 2 - Ring Version (USA).gba
+56998;Robot Wars - Advanced Destruction (USA).gba
+57204;Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+56176;Robots (USA).gba
+55096;Rock n' Roll Racing (USA).gba
+55688;Rock'em Sock'em Robots (USA).gba
+56224;Rocket Power - Beach Bandits (USA, Europe).gba
+54527;Rocket Power - Beach Bandits (USA) (v0.14) (Beta).gba
+54661;Rocket Power - Dream Scheme (USA, Europe).gba
+56537;Rocket Power - Zero Gravity Zone (USA).gba
+54865;Rocky (USA) (En,Fr,De,Es,It).gba
+55301;Rugrats - Castle Capers (USA, Europe).gba
+56068;Rugrats - Go Wild (USA, Europe).gba
+55971;Rugrats - I Gotta Go Party (USA, Europe).gba
+55623;Sabre Wulf (USA).gba
+55283;Sabrina - The Teenage Witch - Potion Commotion (USA) (En,Fr,Es).gba
+56811;Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl).gba
+56022;Samurai Deeper Kyo (USA).gba
+56900;Samurai Jack - The Amulet of Time (USA, Europe).gba
+54931;Santa Clause 3, The - The Escape Clause (USA).gba
+56867;Scooby-Doo (USA).gba
+56226;Scooby-Doo 2 - Monsters Unleashed (USA, Europe).gba
+56518;Scooby-Doo and the Cyber Chase (USA, Europe).gba
+56089;Scooby-Doo! - Mystery Mayhem (USA) (En,Fr).gba
+55296;Scooby-Doo! - Unmasked (USA) (En,Fr).gba
+56352;Scorpion King, The - Sword of Osiris (USA).gba
+55542;Scrabble Blast! (USA).gba
+55060;Scurge - Hive (USA) (En,Fr,Es).gba
+54523;SD Gundam Force (USA).gba
+56092;Sea Trader - Rise of Taipan (USA).gba
+54952;Secret Agent Barbie - Royal Jewels Mission (USA).gba
+54456;Sega Arcade Gallery (USA).gba
+56256;Sega Rally Championship (USA).gba
+56664;Sega Smash Pack (USA).gba
+54978;Serious Sam Advance (USA) (En,Fr,De).gba
+55618;Shaman King - Legacy of the Spirits - Soaring Hawk (USA).gba
+55639;Shaman King - Legacy of the Spirits - Sprinting Wolf (USA).gba
+57084;Shaman King - Master of Spirits (USA).gba
+56614;Shaman King - Master of Spirits 2 (USA).gba
+54451;Shamu's Deep Sea Adventures (USA).gba
+55766;Shark Tale (USA, Europe).gba
+54593;Shaun Palmer's Pro Snowboarder (USA, Europe).gba
+54771;Shining Force - Resurrection of the Dark Dragon (USA).gba
+56223;Shining Soul (USA).gba
+55811;Shining Soul II (USA).gba
+54847;Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl).gba
+57080;Shrek - Reekin' Havoc (USA) (En,Fr,De,Es,It,Nl).gba
+54776;Shrek - Smash n' Crash Racing (USA).gba
+55431;Shrek - Super Slam (USA).gba
+54914;Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+54620;Shrek 2 - Beg for Mercy (USA, Europe).gba
+55467;Shrek 2 (USA, Europe).gba
+54589;Shrek the Third (USA).gba
+54761;Sigma Star Saga (USA, Europe).gba
+55463;Silent Scope (USA) (En,Fr,De,Es,It).gba
+55864;SimCity 2000 (USA).gba
+54603;Simpsons, The - Road Rage (USA, Europe).gba
+55460;Sims 2, The - Pets (USA, Europe).gba
+55936;Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+56222;Sims, The - Bustin' Out (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+56565;Sitting Ducks (USA) (En,Fr,De,Es,It,Nl).gba
+55047;Sky Dancers - They Magically Fly! (USA).gba
+54688;Smashing Drive (USA).gba
+54694;Smuggler's Run (USA).gba
+54960;Snood (USA).gba
+56578;Snood 2 - On Vacation (USA).gba
+55485;Soccer Kid (USA, Europe).gba
+55570;Sonic Advance (USA) (En,Ja).gba
+56792;Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba
+55443;Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).gba
+55576;Sonic Battle (USA) (En,Ja,Fr,De,Es,It).gba
+56070;Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).gba
+55353;Sonic The Hedgehog - Genesis (USA).gba
+55848;Sound of Thunder, A (USA) (En,Fr,De,Es,It).gba
+54388;Space Channel 5 - Ulala's Cosmic Attack (USA).gba
+56449;Space Invaders (USA, Europe).gba
+56137;Spider-Man - Battle for New York (USA).gba
+55279;Spider-Man - Mysterio's Menace (USA, Europe).gba
+56190;Spider-Man (USA, Europe).gba
+56446;Spider-Man 2 (USA, Europe).gba
+56789;Spider-Man 3 (USA).gba
+56193;Spirit - Stallion of the Cimarron - Search for Homeland (USA).gba
+54955;Spirits & Spells (USA).gba
+55218;SpongeBob SquarePants - Battle for Bikini Bottom (USA).gba
+56230;SpongeBob SquarePants - Creature from the Krusty Krab (USA).gba
+56821;SpongeBob SquarePants - Lights, Camera, Pants! (USA).gba
+57082;SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe).gba
+56184;SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta).gba
+54906;SpongeBob SquarePants - SuperSponge (USA, Europe).gba
+54372;SpongeBob SquarePants Movie, The (USA).gba
+54503;SpongeBob SquarePants Movie, The (USA) (Beta).gba
+54675;SpongeBob's Atlantis SquarePantis (USA).gba
+55038;Sports Illustrated for Kids - Baseball (USA).gba
+56891;Sports Illustrated for Kids - Football (USA).gba
+56106;Sportsman's Pack (USA).gba
+56831;Spy Hunter (USA) (En,Ja,Fr,De,Es).gba
+55359;Spy Kids 3-D - Game Over (USA).gba
+54382;Spy Kids Challenger (USA).gba
+55295;Spy Muppets - License to Croak (USA) (En,Fr,De,Es,It,Nl).gba
+54783;Spyro - Attack of the Rhynocs (USA).gba
+56147;Spyro - Season of Ice (USA).gba
+57205;Spyro 2 - Season of Flame (USA).gba
+55180;Spyro Orange - The Cortex Conspiracy (USA).gba
+54387;Spyro Orange - The Cortex Conspiracy (USA) (Rev 1).gba
+56590;Spyro Superpack (USA).gba
+54860;SSX 3 (USA, Europe).gba
+56359;SSX Tricky (USA, Europe) (En,Fr,De).gba
+56367;Stadium Games (USA).gba
+56388;Star Wars - Episode II - Attack of the Clones (USA).gba
+56952;Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es).gba
+55700;Star Wars - Flight of the Falcon (USA).gba
+56756;Star Wars - Jedi Power Battles (USA).gba
+55277;Star Wars - The New Droid Army (USA).gba
+56702;Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es).gba
+55738;Star X (USA) (En,Fr,De,Es,It,Nl).gba
+56475;Starsky & Hutch (USA).gba
+55486;Starsky & Hutch (USA) (Beta).gba
+55438;Strawberry Shortcake - Summertime Adventure - Special Edition (USA).gba
+56548;Strawberry Shortcake - Summertime Adventure (USA).gba
+56356;Strawberry Shortcake - Sweet Dreams (USA).gba
+56179;Street Fighter Alpha 3 (USA).gba
+56743;Street Jam Basketball (USA, Europe).gba
+54567;Street Racing Syndicate (USA).gba
+56500;Strike Force Hydra (USA).gba
+55680;Stuart Little 2 (USA, Europe).gba
+54363;Stuntman (USA) (En,Fr,Es).gba
+56609;Suite Life of Zack & Cody, The - Tipton Caper (USA) (En,Fr).gba
+55532;Sum of All Fears, The (USA) (En,Fr,De,Es,It).gba
+55702;Summon Night - Swordcraft Story (USA).gba
+55355;Summon Night - Swordcraft Story 2 (USA).gba
+56072;Super Army War (USA).gba
+55213;Super Bubble Pop (USA).gba
+54381;Super Bust-A-Move (USA) (En,Fr,Es).gba
+56391;Super Collapse! II (USA).gba
+55029;Super Dodge Ball Advance (USA).gba
+55229;Super Dodge Ball Advance (USA) (Beta).gba
+57196;Super Dropzone - Intergalactic Rescue Mission (USA).gba
+54418;Super Duper Sumos (USA).gba
+54758;Super Ghouls'n Ghosts (USA, Europe).gba
+54555;Super Hornet FA 18F (USA, Europe).gba
+56958;Super Mario Advance - Super Mario USA + Mario Brothers (Japan).gba
+56975;Super Mario Advance (USA, Europe).gba
+55513;Super Mario Advance (USA) (Demo) (Kiosk).gba
+55441;Super Mario Advance 2 - Super Mario World (USA, Australia).gba
+55419;Super Mario Advance 3 - Yoshi's Island (USA).gba
+56577;Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba
+56178;Super Mario Advance 4 - Super Mario Bros. 3 (USA).gba
+55711;Super Monkey Ball Jr. (USA).gba
+56835;Super Puzzle Fighter II Turbo (USA).gba
+56246;Super Robot Taisen - Original Generation (USA).gba
+54741;Super Robot Taisen - Original Generation 2 (USA).gba
+56342;Super Street Fighter II Turbo - Revival (USA).gba
+55625;Superman - Countdown to Apokolips (USA).gba
+55646;Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It).gba
+56599;Surf's Up (USA) (En,Fr,Es).gba
+56647;Sword of Mana (USA, Australia).gba
+55247;Tactics Ogre - The Knight of Lodis (USA).gba
+56336;Tak - The Great Juju Challenge (USA, Europe).gba
+56411;Tak 2 - The Staff of Dreams (USA).gba
+56794;Tak and the Power of Juju (USA).gba
+55266;Tales of Phantasia (USA, Australia).gba
+56861;Tang Tang (USA).gba
+56580;Tarzan - Return to the Jungle (USA, Europe).gba
+54405;Teen Titans (USA) (En,Fr).gba
+55861;Teen Titans 2 (USA) (En,Fr).gba
+55365;Teenage Mutant Ninja Turtles (USA).gba
+56183;Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA).gba
+54868;Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It).gba
+54682;Tekken Advance (USA).gba
+56962;Ten Pin Alley 2 (USA).gba
+57128;Terminator 3 - Rise of the Machines (USA).gba
+55040;Tetris Worlds (USA).gba
+55377;Texas Hold 'em Poker (USA, Europe).gba
+55868;That's So Raven (USA).gba
+54857;That's So Raven 2 - Supernatural Style (USA) (En,Fr).gba
+54412;Three Stooges, The (USA).gba
+57226;Three-in-One Pack - Connect Four + Perfection + Trouble (USA).gba
+56358;Three-in-One Pack - Risk + Battleship + Clue (USA).gba
+55629;Three-in-One Pack - Risk + Battleship + Clue (USA) (Rev 1).gba
+56278;Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA).gba
+54835;Thunder Alley (USA).gba
+55619;Thunderbirds (USA, Europe).gba
+56645;Tiger Woods PGA Tour 2004 (USA, Europe).gba
+55925;Tiger Woods PGA Tour Golf (USA, Europe).gba
+56304;Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It).gba
+55554;Tiny Toon Adventures - Scary Dreams (USA).gba
+55457;Tiny Toon Adventures - Wacky Stackers (USA).gba
+55243;TMNT (USA) (En,Fr,Es).gba
+54768;Tokyo Xtreme Racer Advance (USA).gba
+56344;Tom and Jerry - The Magic Ring (USA) (En,Fr,De,Es,It).gba
+56466;Tom and Jerry in Infurnal Escape (USA).gba
+56624;Tom and Jerry Tales (USA) (En,Fr,Es).gba
+55405;Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).gba
+56331;Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es).gba
+54977;Tom Clancy's Splinter Cell (USA) (En,Fr,Es).gba
+54588;Tonka - On the Job (USA).gba
+56025;Tony Hawk's American Sk8land (USA).gba
+55504;Tony Hawk's Downhill Jam (USA).gba
+55160;Tony Hawk's Pro Skater 2 (USA, Europe).gba
+54942;Tony Hawk's Pro Skater 3 (USA, Europe).gba
+56601;Tony Hawk's Pro Skater 4 (USA, Europe).gba
+56191;Tony Hawk's Underground (USA, Europe).gba
+54738;Tony Hawk's Underground 2 (USA, Europe).gba
+56799;Top Gear GT Championship (USA).gba
+55306;Top Gear Rally (USA).gba
+55786;Top Gun - Combat Zones (USA) (En,Fr,De,Es,It).gba
+56338;Top Gun - Firestorm Advance (USA, Europe) (En,Fr,De,Es,It).gba
+55094;Top Spin 2 (USA) (En,Fr,De,Es,It).gba
+54517;Totally Spies! (USA).gba
+54765;Totally Spies! 2 - Undercover (USA) (En,Fr).gba
+56720;Tower SP, The (USA).gba
+55194;Treasure Planet (USA).gba
+57175;Tringo (USA).gba
+56881;Trollz - Hair Affair! (USA).gba
+54638;Tron 2.0 - Killer App (USA).gba
+55747;Turbo Turtle Adventure (USA).gba
+55599;Turok Evolution (USA).gba
+56139;Tweety and the Magic Gems (USA).gba
+55545;Ty the Tasmanian Tiger 2 - Bush Rescue (USA, Europe) (En,Fr,De).gba
+56953;Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA).gba
+55234;Tyrian 2000 (USA) (Proto).gba
+55637;Ultimate Arcade Games (USA).gba
+56701;Ultimate Beach Soccer (USA).gba
+56767;Ultimate Brain Games (USA, Europe).gba
+57073;Ultimate Card Games (USA, Europe).gba
+54444;Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).gba
+55768;Ultimate Puzzle Games (USA).gba
+56517;Ultimate Spider-Man (USA).gba
+56570;Ultimate Winter Games (USA).gba
+54708;Unfabulous (USA).gba
+56509;Uno 52 (USA).gba
+55796;Uno Free Fall (USA).gba
+54542;Urban Yeti! (USA, Europe).gba
+57019;Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+57233;V-Rally 3 (USA) (En,Fr,Es).gba
+56182;Van Helsing (USA).gba
+56521;VeggieTales - LarryBoy and the Bad Apple (USA).gba
+55049;Virtua Tennis (USA).gba
+54365;Virtual Kasparov (USA) (En,Fr,De,Es,It).gba
+57061;Wade Hixton's Counter Punch (USA, Europe).gba
+54454;Wakeboarding Unleashed featuring Shaun Murray (USA).gba
+55316;Wario Land 4 (USA, Europe).gba
+56819;WarioWare - Twisted! (USA).gba
+55375;WarioWare, Inc. - Mega Microgame$! (USA).gba
+55896;WarioWare, Inc. - Mega Microgame$! (USA) (Beta).gba
+55691;Whac-A-Mole (USA).gba
+56866;Wild Thornberrys Movie, The (USA, Europe).gba
+56087;Wild Thornberrys Movie, The (USA) (Beta).gba
+54615;Wild Thornberrys, The - Chimp Chase (USA, Europe).gba
+55116;Wild, The (USA, Europe) (En,Fr,De,Es).gba
+55832;Wing Commander - Prophecy (USA).gba
+54662;Wings (USA).gba
+56829;Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es).gba
+56722;WinX Club - Quest for the Codex (USA).gba
+55880;WinX Club (USA).gba
+55986;Wolfenstein 3D (USA, Europe).gba
+55889;Woody Woodpecker in Crazy Castle 5 (USA).gba
+56682;Word Safari - The Friendship Totems (USA).gba
+54862;World Championship Poker (USA).gba
+55695;World Poker Tour (USA).gba
+55197;World Reborn (USA) (Proto).gba
+55818;World Tennis Stars (USA).gba
+56690;Worms World Party (USA) (En,Fr,De,Es,It).gba
+54465;WTA Tour Tennis (USA).gba
+55451;WWE - Road to WrestleMania X8 (USA, Europe).gba
+56606;WWE - Survivor Series (USA, Europe).gba
+57167;WWF - Road to WrestleMania (USA, Europe).gba
+56791;WWF - Road to WrestleMania (USA) (Beta).gba
+54772;X-Bladez - Inline Skater (USA).gba
+55223;X-Men - Reign of Apocalypse (USA, Europe).gba
+55930;X-Men - The Official Game (USA).gba
+56979;X2 - Wolverine's Revenge (USA, Europe).gba
+56849;XS Moto (USA).gba
+55324;xXx (USA, Europe).gba
+56875;Yggdra Union - We'll Never Fight Alone (USA).gba
+56882;Yoshi - Topsy-Turvy (USA).gba
+54908;Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA).gba
+55725;Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe).gba
+54826;Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).gba
+55374;Yu-Gi-Oh! - Destiny Board Traveler (USA).gba
+55413;Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es).gba
+55005;Yu-Gi-Oh! - Reshef of Destruction (USA).gba
+56991;Yu-Gi-Oh! - The Eternal Duelist Soul (USA).gba
+57207;Yu-Gi-Oh! - The Sacred Cards (USA).gba
+57186;Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).gba
+54673;Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).gba
+56559;Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).gba
+55007;Yu-Gi-Oh! Double Pack (USA).gba
+56824;Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It).gba
+54595;Yu-Gi-Oh! GX - Duel Academy (USA).gba
+56167;Zapper - One Wicked Cricket! (USA).gba
+56972;Zatchbell! - Electric Arena (USA).gba
+56671;Zoey 101 (USA).gba
+56384;Zoids Legacy (USA).gba
+54679;Zone of the Enders - The Fist of Mars (USA).gba
+55255;ZooCube (USA).gba

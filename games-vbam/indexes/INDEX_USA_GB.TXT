@@ -1,0 +1,524 @@
+35795;4-in-1 Fun Pak (USA, Europe).gb
+35952;4-in-1 Fun Pak Volume II (USA, Europe).gb
+35449;A-mazing Tater (USA).gb
+35696;Addams Family, The - Pugsley's Scavenger Hunt (USA, Europe).gb
+35548;Addams Family, The (USA).gb
+35408;Adventure Island (USA, Europe).gb
+35539;Adventure Island II - Aliens in Paradise (USA, Europe).gb
+36424;Adventures of Rocky and Bullwinkle and Friends, The (USA).gb
+35135;Adventures of Star Saver, The (USA, Europe).gb
+35809;Aerostar (USA, Europe).gb
+36414;Aladdin (USA) (SGB Enhanced).gb
+35236;Alfred Chicken (USA).gb
+35320;Alien 3 (USA, Europe).gb
+35409;Alien vs Predator - The Last of His Clan (USA).gb
+35965;All-Star Baseball 99 (USA).gb
+35691;Altered Space - A 3-D Alien Adventure (USA).gb
+35588;Amazing Penguin (USA, Europe).gb
+35343;Amazing Spider-Man, The (USA, Europe).gb
+35399;Animaniacs (USA) (SGB Enhanced).gb
+36147;Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe) (SGB Enhanced).gb
+36032;Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).gb
+35072;Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).gb
+35452;Arcade Classic No. 4 - Defender & Joust (USA, Europe) (SGB Enhanced).gb
+34975;Arcade Classics - Battlezone & Super Breakout (USA, Europe) (SGB Enhanced).gb
+36393;Asteroids (USA, Europe).gb
+35902;Atomic Punk (USA).gb
+35418;Attack of the Killer Tomatoes (USA, Europe).gb
+35715;Avenging Spirit (USA, Europe).gb
+35907;Balloon Kid (USA, Europe).gb
+35494;Barbie - Game Girl (USA, Europe).gb
+35340;Bart Simpson's Escape from Camp Deadly (USA, Europe).gb
+35662;Bases Loaded for Game Boy (USA).gb
+35073;Batman - Return of the Joker (USA, Europe).gb
+35109;Batman - The Animated Series (USA, Europe).gb
+36006;Batman Forever (USA, Europe).gb
+35015;Battle Arena Toshinden (USA) (SGB Enhanced).gb
+35416;Battle Bull (USA).gb
+35131;Battle Unit Zeoth (USA, Europe).gb
+35403;Battleship (USA, Europe).gb
+35647;Battletoads (USA, Europe).gb
+35442;Battletoads in Ragnarok's World (USA).gb
+35024;Battletoads-Double Dragon (USA).gb
+34986;Beavis and Butt-Head (USA, Europe).gb
+35282;Beetlejuice (USA).gb
+35572;Best of the Best - Championship Karate (USA).gb
+35042;Bill & Ted's Excellent Game Boy Adventure (USA, Europe).gb
+36254;Bill Elliott's NASCAR Fast Tracks (USA).gb
+35172;Bionic Battler (USA).gb
+35833;Bionic Commando (USA).gb
+35241;Black Bass - Lure Fishing (USA).gb
+35117;Blades of Steel (USA).gb
+34884;Blaster Master Boy (USA).gb
+34948;Blues Brothers, The (USA, Europe).gb
+35860;Bo Jackson - Two Games in One (USA).gb
+35594;Boggle Plus (USA).gb
+34883;Bomberman GB (USA, Europe) (SGB Enhanced).gb
+35246;Bonk's Adventure (USA).gb
+35933;Bonk's Revenge (USA) (SGB Enhanced).gb
+35718;Boomer's Adventure in ASMIK World (USA).gb
+35711;Boxxle (USA, Europe) (Rev A).gb
+35215;Boxxle II (USA, Europe).gb
+34951;Brain Bender (USA).gb
+35138;Brain Drain (USA) (SGB Enhanced).gb
+35372;Bram Stoker's Dracula (USA, Europe).gb
+35288;BreakThru! (USA).gb
+36344;Bubble Bobble (USA, Europe).gb
+34925;Bubble Bobble Part 2 (USA, Europe).gb
+36105;Bubble Ghost (USA, Europe).gb
+36069;Bubsy II (USA).gb
+35153;Bugs Bunny Crazy Castle 2, The (USA).gb
+35734;Bugs Bunny Crazy Castle, The (USA, Europe).gb
+35070;Burai Fighter Deluxe (USA, Europe).gb
+35704;Bust-A-Move 2 - Arcade Edition (USA, Europe).gb
+35033;Buster Bros. (USA).gb
+36117;Caesars Palace (USA).gb
+35500;Caesars Palace (USA) (Rev A).gb
+36324;Captain America and the Avengers (USA).gb
+35446;Casino FunPak (USA, Europe).gb
+35392;Casper (USA).gb
+36142;Castelian (USA).gb
+35750;Castlevania - The Adventure (USA).gb
+35950;Castlevania II - Belmont's Revenge (USA, Europe).gb
+35516;Castlevania Legends (USA, Europe) (SGB Enhanced).gb
+36207;Catrap (USA).gb
+36008;Centipede (USA, Europe).gb
+35493;Centipede (USA).gb
+35329;Championship Pool (USA).gb
+36126;Chase H.Q. (USA, Europe).gb
+36341;Chessmaster, The (USA).gb
+36406;Chessmaster, The (USA) (Rev A).gb
+34953;Choplifter II - Rescue & Survive (USA).gb
+36065;Chuck Rock (USA, Europe).gb
+35960;Cliffhanger (USA, Europe).gb
+35808;College Slam (USA).gb
+35800;Contra - The Alien Wars (USA) (SGB Enhanced).gb
+35177;Cool Ball (USA).gb
+36084;Cool Spot (USA).gb
+36230;Cool World (USA, Europe).gb
+36101;Cosmo Tank (USA).gb
+36168;Crystal Quest (USA).gb
+35810;CutThroat Island (USA, Europe).gb
+35021;Cyraid (USA).gb
+35871;Daedalian Opus (USA).gb
+36220;Daffy Duck (USA, Europe) (SGB Enhanced).gb
+35975;Darkman (USA, Europe).gb
+35746;Darkwing Duck (USA).gb
+36426;David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob (USA).gb
+36218;Days of Thunder (USA, Europe).gb
+35413;Dead Heat Scramble (USA).gb
+34939;Dennis the Menace (USA).gb
+35083;Desert Strike - Return to the Gulf (USA) (SGB Enhanced).gb
+36227;Dexterity (USA, Europe).gb
+35225;Diablo (USA) (Proto).gb
+36384;Dick Tracy (USA).gb
+35951;Dig Dug (USA).gb
+35787;Donkey Kong (Japan, USA) (SGB Enhanced).gb
+35651;Donkey Kong Land (USA, Europe) (SGB Enhanced).gb
+36019;Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).gb
+35425;Donkey Kong Land III (USA, Europe) (Beta).gb
+35037;Donkey Kong Land III (USA, Europe) (Rev A) (SGB Enhanced).gb
+35355;Donkey Kong Land III (USA, Europe) (SGB Enhanced).gb
+35765;Double Dragon (USA, Europe).gb
+35280;Double Dragon 3 - The Arcade Game (USA, Europe).gb
+35058;Double Dragon II (USA, Europe).gb
+35605;Double Dribble - 5 on 5 (USA).gb
+34859;Dr. Franken (USA).gb
+35008;Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).gb
+34927;Dragon's Lair - The Legend (USA).gb
+36095;DragonHeart (USA, Europe).gb
+36051;DuckTales (USA).gb
+35829;DuckTales 2 (USA).gb
+35522;Earthworm Jim (USA).gb
+35499;Elevator Action (USA, Europe).gb
+36152;Elite Soccer (USA) (SGB Enhanced).gb
+36376;Exodus - Journey to the Promised Land (USA) (Unl).gb
+35743;Extra Bases! (USA).gb
+36300;F-15 Strike Eagle (USA, Europe).gb
+35563;F1 Pole Position (USA, Europe).gb
+36294;Faceball 2000 (USA).gb
+34970;Fastest Lap (Japan, USA).gb
+36377;Felix the Cat (USA, Europe).gb
+35376;Ferrari Grand Prix Challenge (USA, Europe).gb
+34999;Fidgetts, The (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).gb
+35407;FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced).gb
+35537;FIFA Soccer '96 (USA, Europe) (En,Fr,De,Es) (SGB Enhanced).gb
+35670;FIFA Soccer '97 (USA, Europe) (SGB Enhanced).gb
+36334;Fighting Simulator 2 in 1 (USA, Europe).gb
+36396;Final Fantasy Adventure (USA).gb
+35195;Final Fantasy Legend II (USA).gb
+34942;Final Fantasy Legend III (USA).gb
+34955;Final Fantasy Legend, The (USA).gb
+35872;Fish Dude (USA).gb
+35733;Fist of the North Star (USA).gb
+35412;Flash, The (USA, Europe).gb
+35188;Flintstones, The - King Rock Treasure Island (USA, Europe).gb
+36204;Flintstones, The (USA, Europe).gb
+35970;Flipull (USA).gb
+35915;Foreman for Real (USA, Europe).gb
+35757;Fortified Zone (USA, Europe).gb
+36120;Frank Thomas Big Hurt Baseball (USA, Europe).gb
+35227;Frogger (USA).gb
+35130;Game & Watch Gallery (USA) (Rev A) (SGB Enhanced).gb
+36247;Game & Watch Gallery (USA) (SGB Enhanced).gb
+35811;Game Boy Camera (USA, Europe) (SGB Enhanced).gb
+35080;Game Boy Camera Gold (USA) (SGB Enhanced).gb
+34862;Game Genie (USA) (v2.1) (Unl).gb
+35371;Game of Harmony, The (USA).gb
+35421;GameShark (USA) (Unl).gb
+35774;Gargoyle's Quest (USA, Europe).gb
+35753;Gauntlet II (USA, Europe).gb
+35050;Gear Works (USA, Europe).gb
+35554;George Foreman's KO Boxing (USA, Europe).gb
+34994;Getaway, The (USA).gb
+36021;Ghostbusters II (USA, Europe).gb
+36379;Go! Go! Tank (USA).gb
+34974;Goal! (USA).gb
+36063;Godzilla (USA, Europe).gb
+35544;Gradius - The Interstellar Assault (USA).gb
+36382;Great Greed (USA).gb
+35708;Gurander Musashi RV (Japan) (SGB Enhanced).gb
+36282;HAL Wrestling (USA).gb
+35562;HAL Wrestling (USA) (Beta).gb
+36140;Harvest Moon GB (USA) (SGB Enhanced).gb
+35914;Hatris (Japan, USA).gb
+35440;Heavyweight Championship Boxing (USA).gb
+35899;Heiankyo Alien (USA).gb
+36345;Hercules (USA, Europe) (SGB Enhanced).gb
+36219;High Stakes (USA).gb
+36419;Hit the Ice - VHL - The Official Video Hockey League (USA, Europe).gb
+34902;Home Alone (USA, Europe).gb
+36005;Home Alone 2 - Lost In New York (USA, Europe).gb
+36122;Hook (USA).gb
+36397;Hudson Hawk (USA).gb
+35768;Humans, The (USA).gb
+35617;Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe) (SGB Enhanced).gb
+36372;Hunt for Red October, The (USA, Europe).gb
+35344;Ikari no Yousai (Japan).gb
+35438;Ikari no Yousai 2 (Japan).gb
+36199;In Your Face (USA).gb
+36337;Incredible Crash Dummies, The (USA, Europe).gb
+35601;Indiana Jones and the Last Crusade (USA, Europe).gb
+36150;InfoGenius Productivity Pak - Berlitz French Translator (USA, Europe).gb
+34894;InfoGenius Productivity Pak - Berlitz Spanish Translator (USA, Europe).gb
+35122;InfoGenius Productivity Pak - Frommer's Travel Guide (USA).gb
+35194;InfoGenius Productivity Pak - Personal Organizer and Phone Book (USA).gb
+36131;InfoGenius Productivity Pak - Spell Checker and Calculator (USA).gb
+35379;International Superstar Soccer (USA, Europe) (SGB Enhanced).gb
+35260;Iron Man X-O Manowar in Heavy Metal (USA, Europe) (SGB Enhanced).gb
+36320;Ishido - The Way of Stones (USA).gb
+35727;Jack Nicklaus Golf (USA, Europe).gb
+36441;James Bond 007 (USA, Europe) (SGB Enhanced).gb
+34918;Jeep Jamboree (USA).gb
+34898;Jeopardy! - Platinum Edition (USA) (SGB Enhanced).gb
+35945;Jeopardy! - Sports Edition (USA).gb
+35157;Jeopardy! - Teen Tournament (USA) (SGB Enhanced).gb
+35161;Jeopardy! (USA).gb
+35004;Jet Pack (USA, Europe) (Beta).gb
+35393;Jetsons, The - Robot Panic (USA, Europe).gb
+35997;Jimmy Connors Tennis (USA, Europe).gb
+35031;Joe & Mac (USA).gb
+36045;Jordan vs Bird - One on One (USA, Europe).gb
+35259;Joshua & the Battle of Jericho (USA) (Unl).gb
+35634;Judge Dredd (USA, Europe).gb
+35767;Jungle Book, The (USA, Europe).gb
+35657;Jungle Strike (USA, Europe).gb
+35794;Jurassic Park (USA).gb
+36234;Jurassic Park Part 2 - The Chaos Continues (USA, Europe) (En,Fr,De,It).gb
+35857;Karakuri Kengou Den - Musashi Lord (Japan).gb
+35506;Ken Griffey Jr. Presents Major League Baseball (USA, Europe) (SGB Enhanced).gb
+35405;Kid Dracula (USA, Europe).gb
+35490;Kid Icarus - Of Myths and Monsters (USA, Europe).gb
+35769;Killer Instinct (USA, Europe) (SGB Enhanced).gb
+34853;King James Bible (USA) (Unl).gb
+36047;King of Fighters '95, The (USA) (SGB Enhanced).gb
+35986;Kingdom Crusade (USA).gb
+35667;Kirby's Block Ball (USA, Europe) (SGB Enhanced).gb
+35801;Kirby's Dream Land (USA, Europe).gb
+35382;Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).gb
+35162;Kirby's Pinball Land (USA, Europe).gb
+35009;Kirby's Star Stacker (USA, Europe) (SGB Enhanced).gb
+35364;Klax (USA).gb
+35443;Knight Quest (USA).gb
+35255;Krusty's Fun House (USA, Europe).gb
+35444;Kung-Fu Master (USA, Europe).gb
+35587;Kwirk - He's A-maze-ing! (USA, Europe).gb
+34858;Lamborghini American Challenge (USA, Europe).gb
+35759;Last Action Hero (USA, Europe).gb
+35088;Lazlos' Leap (USA).gb
+36092;Legend of the River King GB (USA) (SGB Enhanced).gb
+35270;Legend of Zelda, The - Link's Awakening (USA, Europe).gb
+36160;Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev A).gb
+35468;Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).gb
+34875;Lemmings (USA).gb
+35336;Lethal Weapon (USA, Europe).gb
+36407;Lion King, The (USA).gb
+35866;Little Mermaid, The (USA).gb
+35026;Looney Tunes (USA, Europe).gb
+36159;Lost World, The - Jurassic Park (USA, Europe) (SGB Enhanced).gb
+36078;Madden '95 (USA, Europe) (SGB Enhanced).gb
+34887;Madden '96 (USA, Europe) (SGB Enhanced).gb
+35387;Madden '97 (USA) (SGB Enhanced).gb
+36399;Malibu Beach Volleyball (USA).gb
+35234;Marble Madness (USA, Europe).gb
+35110;Mario's Picross (USA, Europe) (SGB Enhanced).gb
+36389;Maru's Mission (USA).gb
+36103;Maui Mallard (USA).gb
+35679;Mega Man - Dr. Wily's Revenge (USA).gb
+35478;Mega Man II (USA).gb
+36010;Mega Man III (USA).gb
+35682;Mega Man IV (USA).gb
+35056;Mega Man V (USA) (SGB Enhanced).gb
+35333;Megalit (USA, Europe).gb
+35303;Mercenary Force (USA, Europe).gb
+35998;Metal Masters (USA).gb
+35096;Mickey Mouse - Magic Wands (USA, Europe) (SGB Enhanced).gb
+36023;Mickey's Dangerous Chase (USA).gb
+35488;Mickey's Ultimate Challenge (USA, Europe).gb
+35300;Micro Machines (USA, Europe).gb
+35658;Mighty Morphin Power Rangers - The Movie (USA, Europe) (SGB Enhanced).gb
+36330;Mighty Morphin Power Rangers (USA, Europe) (SGB Enhanced).gb
+35202;Milon's Secret Castle (USA, Europe).gb
+35771;Miner 2049er Starring Bounty Bob (USA).gb
+36312;Missile Command (USA, Europe).gb
+36326;Mole Mania (USA, Europe) (SGB Enhanced).gb
+35821;Monopoly (USA).gb
+35360;Monster Truck Wars (USA, Europe).gb
+36088;Mortal Kombat (USA, Europe).gb
+34886;Mortal Kombat & Mortal Kombat II (USA, Europe).gb
+35481;Mortal Kombat 3 (USA).gb
+35668;Mortal Kombat II (USA, Europe).gb
+35697;Motocross Maniacs (USA).gb
+36029;Mouse Trap Hotel (USA).gb
+36248;Mr. Chin's Gourmet Paradise (USA).gb
+35678;Mr. Do! (USA).gb
+35448;Ms. Pac-Man (USA).gb
+35374;Muhammad Ali Heavyweight Boxing (USA, Europe).gb
+35577;Mulan (USA, Europe) (SGB Enhanced).gb
+36283;Mysterium (USA).gb
+35583;Mystical Ninja Starring Goemon (USA) (SGB Enhanced).gb
+36145;Nail'n Scale (USA, Europe).gb
+35776;Navy Seals (USA, Europe).gb
+35113;NBA All Star Challenge (USA, Europe).gb
+35010;NBA All Star Challenge 2 (USA, Europe).gb
+36127;NBA Jam - Tournament Edition (USA, Europe).gb
+34928;NBA Jam (USA, Europe).gb
+35786;NBA Live 96 (USA, Europe) (SGB Enhanced).gb
+36269;Nemesis (USA).gb
+35032;New Chessmaster, The (USA, Europe).gb
+35101;NFL Football (USA).gb
+35351;NFL Quarterback Club '96 (USA, Europe).gb
+35353;NFL Quarterback Club (USA, Europe).gb
+35180;NFL Quarterback Club II (USA, Europe).gb
+35090;NHL '96 (USA, Europe) (SGB Enhanced).gb
+35285;NHL Hockey '95 (USA, Europe) (SGB Enhanced).gb
+35747;Nigel Mansell's World Championship (USA).gb
+36077;Ninja Boy (USA, Europe).gb
+34889;Ninja Boy 2 (USA, Europe).gb
+36360;Ninja Gaiden Shadow (USA).gb
+35980;Ninja Taro (USA).gb
+36053;Ninja Taro (USA) (Beta).gb
+35925;Nintendo World Cup (USA, Europe).gb
+35182;NIV Bible & the 20 Lost Levels of Joshua (USA) (Unl).gb
+35512;Nobunaga's Ambition (USA).gb
+34991;Oddworld Adventures (USA, Europe).gb
+35880;Olympic Summer Games (USA, Europe) (SGB Enhanced).gb
+35342;Operation C (USA).gb
+35859;Out of Gas (USA).gb
+35139;Pac-Attack (USA) (SGB Enhanced).gb
+35533;Pac-In-Time (USA) (SGB Enhanced).gb
+35016;Pac-Man (USA).gb
+35381;Pagemaster, The (USA) (SGB Enhanced).gb
+35764;Panel Action Bingo (USA).gb
+35394;Paperboy (USA, Europe).gb
+34984;Paperboy 2 (USA, Europe).gb
+35760;Penguin Wars (USA).gb
+36015;PGA European Tour (USA, Europe) (SGB Enhanced).gb
+36348;PGA Tour 96 (USA, Europe) (SGB Enhanced).gb
+35600;Pinball - Revenge of the 'Gator (USA, Europe).gb
+35146;Pinball Dreams (USA, Europe).gb
+35598;Pinball Fantasies (USA, Europe).gb
+35367;Pinocchio (USA).gb
+36121;Pipe Dream (USA).gb
+35543;Pit Fighter (USA, Europe).gb
+36022;Play Action Football (USA).gb
+35517;Pocahontas (USA, Europe) (SGB Enhanced).gb
+35198;Pokemon - Blue Version (USA, Europe) (SGB Enhanced).gb
+34946;Pokemon - Red Version (USA, Europe) (SGB Enhanced).gb
+35920;Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (GBC,SGB Enhanced).gb
+35433;Popeye 2 (USA).gb
+35650;Power Mission (USA).gb
+35530;Power Racer (USA).gb
+35247;Prehistorik Man (USA, Europe).gb
+35612;Primal Rage (USA, Europe).gb
+36380;Prince of Persia (USA).gb
+36279;Prophecy - The Viking Child (USA).gb
+35356;Punisher, The - The Ultimate Payback (USA).gb
+35534;Pyramids of Ra (USA).gb
+35323;Q Billion (USA).gb
+35865;Q-bert for Game Boy (USA, Europe).gb
+36177;Quarth (USA, Europe).gb
+35457;R-Type (USA, Europe).gb
+35093;Race Days (USA).gb
+36074;Race Drivin' (USA, Europe).gb
+35761;Radar Mission (USA, Europe).gb
+35349;Raging Fighter (USA, Europe).gb
+35014;Rampart (USA, Europe).gb
+35834;Real Ghostbusters, The (USA).gb
+36314;Ren & Stimpy Show, The - Space Cadet Adventures (USA).gb
+35218;Ren & Stimpy Show, The - Veediots! (USA, Europe).gb
+35273;Riddick Bowe Boxing (USA).gb
+36313;Ring Rage (USA).gb
+36056;Road Rash (USA, Europe).gb
+36009;Road Rash (USA, Europe) (Beta).gb
+35375;Robin Hood - Prince of Thieves (USA).gb
+35079;RoboCop (USA, Europe) (Rev A).gb
+35547;RoboCop (USA).gb
+35748;RoboCop 2 (USA, Europe).gb
+36061;RoboCop vs. The Terminator (USA).gb
+35465;Roger Clemens' MVP Baseball (USA).gb
+36433;Rolan's Curse (USA).gb
+35867;Rolan's Curse II (USA).gb
+35141;Rugrats Movie, The (USA) (SGB Enhanced).gb
+35943;Samurai Shodown (USA, Europe) (Beta) (SGB Enhanced).gb
+36184;Samurai Shodown (USA, Europe) (SGB Enhanced).gb
+35060;SeaQuest DSV (USA, Europe) (SGB Enhanced).gb
+35208;Serpent (USA).gb
+34870;Shanghai (USA).gb
+36415;Shaq Fu (USA) (SGB Enhanced).gb
+36113;Simpsons Itchy & Scratchy, The - Miniature Golf Madness (USA, Europe).gb
+34971;Simpsons, The - Bart & the Beanstalk (USA, Europe).gb
+35895;Simpsons, The - Bart vs. the Juggernauts (USA, Europe).gb
+34896;Skate or Die - Bad 'N Rad (USA).gb
+36181;Skate or Die - Tour de Thrash (USA).gb
+35216;Small Soldiers (USA, Europe) (SGB Enhanced).gb
+35983;Smurfs, The (USA, Europe) (En,Fr,De) (Rev A) (SGB Enhanced).gb
+36143;Sneaky Snakes (USA, Europe).gb
+35040;Snoopy - Magic Show (USA, Europe).gb
+35985;Snow Bros. Jr. (USA).gb
+35103;Soccer Mania (USA).gb
+35428;Solitaire FunPak (USA, Europe).gb
+36064;Solomon's Club (USA).gb
+34935;Space Invaders (USA) (SGB Enhanced).gb
+35525;Spanky's Quest (USA).gb
+36351;Speedball 2 - Brutal Deluxe (USA, Europe).gb
+35724;Speedy Gonzales (USA, Europe).gb
+35535;Spider-Man - X-Men (USA, Europe).gb
+35991;Spider-Man 2 (USA, Europe).gb
+35827;Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe).gb
+35423;Spiritual Warfare (USA) (Unl).gb
+35232;Sports Illustrated - Football & Baseball (USA).gb
+35948;Sports Illustrated - Golf Classic (USA) (SGB Enhanced).gb
+36007;Sports Illustrated for Kids - The Ultimate Triple Dare! (USA).gb
+35584;Spot - The Cool Adventure (USA).gb
+36246;Spot (USA).gb
+35653;Spud's Adventure (USA).gb
+36370;Spy vs Spy - Operation Boobytrap (USA).gb
+36076;Square Deal - The Game of Two-Dimensional Poker (USA).gb
+36188;Star Trek - 25th Anniversary (USA, Europe).gb
+36200;Star Trek - The Next Generation (USA, Europe).gb
+35853;Star Trek Generations - Beyond the Nexus (USA) (SGB Enhanced).gb
+35268;Star Wars - The Empire Strikes Back (USA).gb
+35389;Star Wars (USA, Europe) (Rev A).gb
+35064;Star Wars (USA).gb
+36306;Stargate (USA, Europe).gb
+36132;Stop That Roach! (USA).gb
+35092;Street Fighter II (USA, Europe) (Rev A) (SGB Enhanced).gb
+36151;Street Fighter II (USA) (SGB Enhanced).gb
+36329;Street Racer (USA, Europe).gb
+36205;Sumo Fighter (USA).gb
+35515;Super Battletank - War in the Gulf (USA).gb
+35551;Super Black Bass (USA).gb
+36119;Super Breakout (USA).gb
+35368;Super Chase H.Q. (USA, Europe).gb
+35106;Super Hunchback (USA).gb
+36017;Super Mario Land 2 - 6 Golden Coins (USA, Europe).gb
+36014;Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev A).gb
+36260;Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B).gb
+35213;Super Off Road (USA, Europe).gb
+35641;Super R.C. Pro-Am (USA, Europe).gb
+36244;Super Scrabble (USA).gb
+36291;Super Star Wars - Return of the Jedi (USA, Europe) (SGB Enhanced).gb
+36435;Superman (USA, Europe) (SGB Enhanced).gb
+35460;Swamp Thing (USA, Europe).gb
+36268;Sword of Hope II, The (USA).gb
+36212;Sword of Hope, The (USA).gb
+35559;T2 - The Arcade Game (USA, Europe).gb
+35596;Tail 'Gator (USA, Europe).gb
+36202;TaleSpin (USA).gb
+36225;Tamagotchi (USA, Europe) (SGB Enhanced).gb
+36138;Tarzan (USA, Europe).gb
+35509;Tasmania Story (USA).gb
+35228;Taz-Mania (USA, Europe).gb
+35686;Taz-Mania 2 (USA).gb
+36316;Tecmo Bowl (USA).gb
+36043;Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).gb
+36195;Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).gb
+35893;Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb
+36072;Terminator 2 - Judgment Day (USA, Europe).gb
+36185;Tesserae (USA).gb
+35461;Tetris 2 (USA, Europe) (SGB Enhanced).gb
+35744;Tetris 2 (USA).gb
+36302;Tetris Attack (USA, Europe) (Rev A) (SGB Enhanced).gb
+35637;Tetris Attack (USA) (SGB Enhanced).gb
+36352;Tetris Blast (USA, Europe) (SGB Enhanced).gb
+35256;Tetris Plus (USA, Europe) (SGB Enhanced).gb
+35591;Tiny Toon Adventures - Babs' Big Break (USA, Europe).gb
+35805;Tiny Toon Adventures - Wacky Sports (USA).gb
+35981;Tiny Toon Adventures 2 - Montana's Movie Madness (USA, Europe).gb
+35992;Titus the Fox to Marrakech and Back (USA, Europe).gb
+34934;Tom & Jerry (USA, Europe).gb
+35558;Tom and Jerry - Frantic Antics! (USA, Europe).gb
+36148;Top Gun - Guts & Glory (USA, Europe).gb
+35946;Top Rank Tennis (USA).gb
+35487;Torpedo Range (USA).gb
+35044;Total Carnage (USA, Europe).gb
+36107;Toxic Crusaders (USA).gb
+35121;Toy Story (USA) (Rev A) (SGB Enhanced).gb
+35729;Toy Story (USA) (SGB Enhanced).gb
+36149;Track & Field (USA, Europe).gb
+36062;Track Meet (USA, Europe).gb
+35610;Trax (USA, Europe).gb
+36176;True Lies (USA, Europe).gb
+36361;Tumble Pop (USA, Europe).gb
+35638;Turn and Burn (USA).gb
+35292;Turok - Battle of the Bionosaurs (USA, Europe) (En,Fr,De,Es).gb
+35620;Turrican (USA, Europe).gb
+35094;Ultima - Runes of Virtue (USA).gb
+35928;Ultima - Runes of Virtue II (USA).gb
+35185;Ultra Golf (USA).gb
+35424;Universal Soldier (USA, Europe).gb
+35120;Urban Strike (USA, Europe) (SGB Enhanced).gb
+36447;Vegas Stakes (USA, Europe) (SGB Enhanced).gb
+35034;Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).gb
+36079;Wario Land II (USA, Europe) (SGB Enhanced).gb
+35640;Wave Race (USA, Europe).gb
+36167;Wayne's World (USA).gb
+35659;WCW Main Event (USA, Europe).gb
+36410;We're Back! - A Dinosaur's Story (USA, Europe).gb
+35838;Wheel of Fortune (USA).gb
+35317;Who Framed Roger Rabbit (USA).gb
+34869;Wild Snake (USA) (SGB Enhanced).gb
+35732;Wizards & Warriors Chapter X - The Fortress of Fear (USA, Europe).gb
+35076;Wordtris (USA).gb
+35248;WordZap (USA).gb
+36281;World Bowling (USA).gb
+36338;World Circuit Series (USA).gb
+36271;World Cup 98 (USA, Europe) (SGB Enhanced).gb
+36222;World Cup USA '94 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).gb
+36115;World Cup USA '94 (Japan) (En,Fr,De,Es,It,Nl,Pt,Sv).gb
+35999;World Heroes 2 Jet (USA, Europe) (SGB Enhanced).gb
+35964;WWF King of the Ring (USA, Europe).gb
+35898;WWF Raw (USA, Europe).gb
+35308;WWF Superstars (USA, Europe).gb
+36018;WWF Superstars 2 (USA, Europe).gb
+35843;WWF War Zone (USA, Europe).gb
+35011;X (USA) (Proto).gb
+36039;Xenon 2 - Megablast (USA, Europe).gb
+35949;XVII Olympic Winter Games, The - Lillehammer 1994 (USA).gb
+36317;Yogi Bear in Yogi Bear's Goldrush (USA).gb
+35652;Yoshi (USA).gb
+35294;Yoshi's Cookie (USA, Europe).gb
+35797;Zen - Intergalactic Ninja (USA).gb
+35035;Zool - Ninja of the 'Nth' Dimension (USA).gb
+36299;Zoop (USA, Europe).gb
